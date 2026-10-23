@@ -6,7 +6,7 @@ The page uses Format's own "Clarity" theme CSS and gallery JavaScript (masonry l
 
 - `index.html`: the gallery (also served at `/portfolio/`, like on Format)
 - `images/NN/`: each photo at several widths, plus `lightbox.jpg`
-- `assets/`: theme CSS, JS, fonts and icons
+- `assets/`: theme CSS, JS, icons and the DM Sans font (free, replaces Format's Proxima Nova)
 - `tools/`: scripts that rebuilt this site from the scrape on the `scrape` branch
 
 ## Adding or changing photos
@@ -14,4 +14,4 @@ The page uses Format's own "Clarity" theme CSS and gallery JavaScript (masonry l
 The quickest way is to ask Claude. To do it by hand, add the new image to `_scrape/images/` and `_scrape/images.json` on the `scrape` branch, then rerun:
 
     python3 tools/images.py _scrape site/images
-    python3 tools/build.py _scrape site dmphotos.ca
+    python3 tools/build.py _scrape site dmphotos.ca path/to/@fontsource/dm-sans

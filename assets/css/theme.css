@@ -107,13 +107,13 @@
   display: none; }
 
 .product-list .product-name {
-  font-family: "Proxima Nova Bold", sans-serif;
+  font-family: "DM Sans Bold", sans-serif;
   font-weight: normal;
   color: #222222;
   font-size: 30px; }
 
 .product-list .product-price {
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   color: #777777;
   font-size: 14px;
   line-height: 1.3; }
@@ -128,7 +128,7 @@
 .product-order-form button.f-add-to-cart-button {
   color: #ffffff !important;
   font-size: 14px !important;
-  font-family: "Proxima Nova Regular", sans-serif !important;
+  font-family: "DM Sans", sans-serif !important;
   border-radius: 3px;
   background: #222222;
   border: 1px solid rgba(34, 34, 34, 0.2) !important;
@@ -147,13 +147,13 @@ h2, p, li {
 .proofing-header__project-title {
   color: #222222 !important;
   font-size: 21px !important;
-  font-family: "Proxima Nova Regular", sans-serif !important;
+  font-family: "DM Sans", sans-serif !important;
   font-weight: normal !important;
   line-height: 1.5 !important; }
 
 .proofing-header__client-name {
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 14px;
   line-height: 2; }
 
@@ -161,7 +161,7 @@ h2, p, li {
   background: #ffffff; }
 
 .proofing-header__action {
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 14px;
   line-height: normal;
   color: #777777;
@@ -171,7 +171,7 @@ h2, p, li {
   .proofing-header__action--download, .proofing-header__action--favorites, .proofing-header__action--view, .proofing-header__action--cart--desktop {
     color: #ffffff !important;
     font-size: 14px;
-    font-family: "Proxima Nova Regular", sans-serif;
+    font-family: "DM Sans", sans-serif;
     border-radius: 3px;
     background: #222222;
     border-color: rgba(34, 34, 34, 0.5) !important;
@@ -186,18 +186,18 @@ h2, p, li {
 
 .private-page {
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 14px;
   line-height: 2; }
 
 .private-page__header {
   color: #222222;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 21px;
   font-weight: normal; }
 
 .private-page__logo {
-  font-family: "Proxima Nova Bold", sans-serif;
+  font-family: "DM Sans Bold", sans-serif;
   font-size: 36px;
   font-style: normal;
   font-weight: normal;
@@ -207,7 +207,7 @@ h2, p, li {
 .private-page__form-submit {
   color: #ffffff !important;
   font-size: 14px !important;
-  font-family: "Proxima Nova Regular", sans-serif !important;
+  font-family: "DM Sans", sans-serif !important;
   border-radius: 3px !important;
   background: #222222 !important;
   border-color: rgba(34, 34, 34, 0.5) !important;
@@ -241,7 +241,7 @@ h2, p, li {
 .f_assets-container .overlay_text_copy {
   color: #FFFFFF;
   font-size: 80px;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-weight: normal;
   line-height: 1.5 !important; }
   @media only screen and (max-width: 767px) {
@@ -270,7 +270,7 @@ h2, p, li {
 
 .f_asset-filename, .f_asset-filename * {
   color: #777777 !important;
-  font-family: "Proxima Nova Regular", sans-serif !important;
+  font-family: "DM Sans", sans-serif !important;
   font-size: 14px !important;
   font-weight: normal !important;
   line-height: inherit !important; }
@@ -886,27 +886,27 @@ body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_con
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row h2.xl-headline,
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row h2.xl-headline span {
   color: #222222;
-  font-family: "Proxima Nova Bold", sans-serif;
+  font-family: "DM Sans Bold", sans-serif;
   line-height: 1.4 !important;
   font-size: 24px; }
 
 body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row h2,
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row h2 {
   color: #222222;
-  font-family: "Proxima Nova Bold", sans-serif;
+  font-family: "DM Sans Bold", sans-serif;
   line-height: 1.4 !important;
   font-size: 21px;
   font-weight: bold; }
   body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row h2 span,
   body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row h2 span {
-    font-family: "Proxima Nova Regular", "Proxima Nova Book", 'sans-serif'; }
+    font-family: "DM Sans", "DM Sans", 'sans-serif'; }
 
 body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row p,
 body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row li,
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row p,
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row li {
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   line-height: 1.4 !important;
   font-size: 14px; }
 
@@ -915,7 +915,7 @@ body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_con
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) #content_page_wrapper ._4ORMAT_content_page_row p.small-text,
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row p.small-text {
   color: #777777;
-  font-family: "Input Mono Narrow Regular", "Input Mono Narrow Regular", monospace;
+  font-family: "DM Sans", "DM Sans", monospace;
   line-height: 1.4 !important;
   font-size: 14px; }
 
@@ -942,7 +942,7 @@ body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4OR
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row input._4ORMAT_module_contact_input:not(.btn) {
   color: #222222 !important;
   font-size: 14px !important;
-  font-family: "Input Mono Narrow Regular", "Input Mono Narrow Regular", monospace !important;
+  font-family: "DM Sans", "DM Sans", monospace !important;
   border-color: rgba(153, 153, 153, 0.5) !important; }
 
 body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row input._4ORMAT_module_contact_input.btn, body.content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row a.format_flex_button,
@@ -950,7 +950,7 @@ body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4OR
 body.nested_content:not(.client):not(.store):not(.product):not(.blog) :not(._4ORMAT_content_page_TITLE) ._4ORMAT_content_page_row a.format_flex_button {
   color: #ffffff !important;
   font-size: 14px !important;
-  font-family: "Proxima Nova Regular", sans-serif !important;
+  font-family: "DM Sans", sans-serif !important;
   border-radius: 3px !important;
   background: #222222 !important;
   border: 1px solid rgba(34, 34, 34, 0.5) !important;
@@ -1250,7 +1250,7 @@ html {
 body {
   background-color: #ffffff;
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 14px;
   line-height: 2;
   font-size: 100%;
@@ -1267,7 +1267,7 @@ h1, h2, h3, h4, h5, h6 {
 
 body:not(.content) h2 {
   color: #222222;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 21px;
   font-weight: normal; }
 
@@ -1382,7 +1382,7 @@ Header / Menu Styles
     margin: 0;
     padding: 0; }
     .header .logo a {
-      font-family: "Proxima Nova Bold", sans-serif;
+      font-family: "DM Sans Bold", sans-serif;
       font-size: 36px;
       font-style: normal;
       font-weight: normal;
@@ -1765,7 +1765,7 @@ Header / Menu Styles
     .header .menu ul.main-menu li > a {
       color: #777777;
       font-style: normal;
-      font-family: "Input Mono Narrow Regular", "Input Mono Narrow Regular", monospace;
+      font-family: "DM Sans", "DM Sans", monospace;
       font-size: 14px;
       text-decoration: none; }
     .header .menu ul.main-menu li.item > a:hover {
@@ -1800,7 +1800,7 @@ Footer Styles
 ------------------------------------------------------------------
 */
 footer {
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 12px;
   line-height: 1.2;
   font-weight: normal;
@@ -1848,7 +1848,7 @@ body.gallery .title-element {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   filter: alpha(opacity=0);
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-style: normal;
   font-size: 21px;
   line-height: 1.4; }
@@ -1870,7 +1870,7 @@ body.gallery .title-element {
     text-align: left; }
   body.gallery .title-element h1, body.gallery .title-element h2 {
     color: #222222;
-    font-family: "Proxima Nova Bold", sans-serif;
+    font-family: "DM Sans Bold", sans-serif;
     font-size: 21px;
     line-height: 1;
     font-weight: normal; }
@@ -2059,7 +2059,7 @@ body.gallery .asset {
     body.gallery .asset.text .item {
       padding: 80px 10px 60px 60px;
       color: #777777;
-      font-family: "Proxima Nova Regular", sans-serif;
+      font-family: "DM Sans", sans-serif;
       font-style: normal;
       font-size: 14px;
       line-height: 2; }
@@ -2071,7 +2071,7 @@ body.gallery .asset {
           padding: 20px; } }
       body.gallery .asset.text .item h1, body.gallery .asset.text .item h2 {
         color: #222222;
-        font-family: "Proxima Nova Bold", sans-serif;
+        font-family: "DM Sans Bold", sans-serif;
         font-size: 21px;
         line-height: 1;
         font-weight: normal;
@@ -2434,7 +2434,7 @@ Gallery popup Styles
         padding: 100px; }
         #popup.text .inner .text .copy {
           color: #777777;
-          font-family: "Proxima Nova Regular", sans-serif;
+          font-family: "DM Sans", sans-serif;
           font-style: normal;
           font-size: 14px;
           line-height: 2;
@@ -2632,7 +2632,7 @@ body.listing .title-element {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   filter: alpha(opacity=0);
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-style: normal;
   font-size: 21px;
   line-height: 1.4; }
@@ -2655,7 +2655,7 @@ body.listing .title-element {
   body.listing .title-element h1,
   body.listing .title-element h2 {
     color: #222222;
-    font-family: "Proxima Nova Bold", sans-serif;
+    font-family: "DM Sans Bold", sans-serif;
     font-size: 21px;
     line-height: 1;
     font-weight: normal; }
@@ -2701,7 +2701,7 @@ body.listing .asset {
   body.listing .asset .row {
     vertical-align: top; }
   body.listing .asset .title {
-    font-family: "Proxima Nova Regular", sans-serif;
+    font-family: "DM Sans", sans-serif;
     font-size: 16px;
     line-height: 1.2;
     font-weight: normal;
@@ -2841,7 +2841,7 @@ body.listing .gallery-container .title-element {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   filter: alpha(opacity=0);
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-style: normal;
   font-size: 21px;
   line-height: 1.4; }
@@ -2862,7 +2862,7 @@ body.listing .gallery-container .title-element {
     text-align: left; }
   body.listing .gallery-container .title-element h1, body.listing .gallery-container .title-element h2 {
     color: #222222;
-    font-family: "Proxima Nova Bold", sans-serif;
+    font-family: "DM Sans Bold", sans-serif;
     font-size: 21px;
     line-height: 1;
     font-weight: normal; }
@@ -2972,7 +2972,7 @@ body.listing .gallery-container .asset {
     body.listing .gallery-container .asset.text .item {
       padding: 80px 10px 60px 60px;
       color: #777777;
-      font-family: "Proxima Nova Regular", sans-serif;
+      font-family: "DM Sans", sans-serif;
       font-style: normal;
       font-size: 14px;
       line-height: 2; }
@@ -2984,7 +2984,7 @@ body.listing .gallery-container .asset {
           padding: 30px; } }
       body.listing .gallery-container .asset.text .item h1, body.listing .gallery-container .asset.text .item h2 {
         color: #222222;
-        font-family: "Proxima Nova Bold", sans-serif;
+        font-family: "DM Sans Bold", sans-serif;
         font-size: 21px;
         line-height: 1;
         font-weight: normal;
@@ -3119,7 +3119,7 @@ Content Page Styles
 */
 ._4ORMAT_content_wrapper {
   color: #777777;
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 14px;
   line-height: 2; }
 
@@ -3212,7 +3212,7 @@ body.blog ._4ORMAT_content_wrapper {
   body.blog ._4ORMAT_content_wrapper h2,
   body.blog ._4ORMAT_content_wrapper h3 {
     color: #222222;
-    font-family: "Proxima Nova Bold", sans-serif;
+    font-family: "DM Sans Bold", sans-serif;
     font-size: 21px;
     font-weight: normal;
     font-style: normal; }
@@ -3222,7 +3222,7 @@ body.blog ._4ORMAT_content_wrapper {
 .f_blog_title_typography,
 .f_blog_title_typography:hover {
   color: #222222;
-  font-family: "Proxima Nova Bold", sans-serif;
+  font-family: "DM Sans Bold", sans-serif;
   font-size: 21px;
   font-weight: normal;
   font-style: normal;
@@ -3232,7 +3232,7 @@ body.blog ._4ORMAT_content_wrapper {
 
 .f_blog_body_typography,
 .f_blog_body_typography:hover {
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 21px;
   line-height: 1.8;
   font-weight: normal;
@@ -3256,7 +3256,7 @@ body.blog ._4ORMAT_content_wrapper {
   border-color: #777777; }
 
 .f_blog_image_caption {
-  font-family: "Proxima Nova Regular", sans-serif;
+  font-family: "DM Sans", sans-serif;
   font-size: 14px;
   line-height: 1.2;
   font-weight: normal;

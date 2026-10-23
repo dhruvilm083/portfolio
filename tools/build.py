@@ -45,29 +45,30 @@ for m in re.finditer(r'<link[^>]+href=[\'"](/[^\'"]+\.css[^\'"]*)[\'"]', raw):
     open(os.path.join(A, 'css', name), 'w', encoding='utf8').write(css)
     css_map[href] = name
 
-# Fonts: only the three families the theme uses.
-fonts = {
-    'ProximaNova-Regular': os.path.join(FF, 'format', 'ProximaNova', 'Proxima Nova Regular'),
-    'ProximaNova-RegularItalic': os.path.join(FF, 'format', 'ProximaNova', 'Proxima Nova Regular Italic'),
-    'ProximaNova-Bold': os.path.join(FF, 'format', 'ProximaNova', 'Proxima Nova Bold'),
-    'ProximaNova-BoldItalic': os.path.join(FF, 'format', 'ProximaNova', 'Proxima Nova Bold Italic'),
-}
-for name, base in fonts.items():
-    for ext in ('woff2', 'woff'):
-        shutil.copy('%s.%s' % (base, ext), os.path.join(A, 'fonts', '%s.%s' % (name, ext)))
-im = os.path.join(FF, 'webtype', 'Input-Mono-Narrow', 'd6b3c136-bb1f-4066-b88b-9f20e8516563-3.woff')
-shutil.copy(im, os.path.join(A, 'fonts', 'InputMonoNarrow-Regular.woff'))
-
-def face(family, file, weight, style, woff2=True):
-    srcs = (["url(../fonts/%s.woff2) format('woff2')" % file] if woff2 else []) + ["url(../fonts/%s.woff) format('woff')" % file]
-    return "@font-face{font-family:'%s';src:%s;font-weight:%s;font-style:%s;font-display:block}\n" % (family, ','.join(srcs), weight, style)
+# Fonts: DM Sans (free, OFL) in place of Format's licensed Proxima Nova / Input Mono.
+DM = sys.argv[4]  # @fontsource/dm-sans package dir
+for w in (400, 700):
+    for st in ('normal', 'italic'):
+        for ext in ('woff2', 'woff'):
+            shutil.copy(os.path.join(DM, 'files', 'dm-sans-latin-%d-%s.%s' % (w, st, ext)),
+                        os.path.join(A, 'fonts', 'DMSans-%d-%s.%s' % (w, st, ext)))
+def face(family, weight, style, file_weight=None):
+    f = 'DMSans-%d-%s' % (file_weight or weight, style)
+    return ("@font-face{font-family:'%s';src:url(../fonts/%s.woff2) format('woff2'),url(../fonts/%s.woff) format('woff');"
+            "font-weight:%d;font-style:%s;font-display:swap}\n" % (family, f, f, weight, style))
 open(os.path.join(A, 'css', 'fonts.css'), 'w').write(
-    face('Proxima Nova Regular', 'ProximaNova-Regular', 'normal', 'normal') +
-    face('Proxima Nova Regular', 'ProximaNova-RegularItalic', 'normal', 'italic') +
-    face('Proxima Nova Regular', 'ProximaNova-Bold', 'bold', 'normal') +
-    face('Proxima Nova Bold', 'ProximaNova-Bold', 'bold', 'normal') +
-    face('Proxima Nova Bold', 'ProximaNova-BoldItalic', 'bold', 'italic') +
-    face('Input Mono Narrow Regular', 'InputMonoNarrow-Regular', 'normal', 'normal', woff2=False))
+    face('DM Sans', 400, 'normal') + face('DM Sans', 400, 'italic') +
+    face('DM Sans', 700, 'normal') + face('DM Sans', 700, 'italic') +
+    # The theme sets bold headings as a separate family at normal weight.
+    face('DM Sans Bold', 400, 'normal', 700) + face('DM Sans Bold', 400, 'italic', 700) +
+    face('DM Sans Bold', 700, 'normal') + face('DM Sans Bold', 700, 'italic'))
+for name in os.listdir(os.path.join(A, 'css')):
+    p = os.path.join(A, 'css', name)
+    css = open(p, encoding='utf8').read()
+    css = re.sub(r'"Proxima Nova Bold"', '"DM Sans Bold"', css)
+    css = re.sub(r'"Proxima Nova (Regular|Book)"', '"DM Sans"', css)
+    css = re.sub(r'"Input Mono Narrow Regular"', '"DM Sans"', css)
+    open(p, 'w', encoding='utf8').write(css)
 
 # JS: the theme's own gallery code and its libraries.
 js_map = {}
