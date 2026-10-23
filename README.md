@@ -1,4 +1,4 @@
-# dmphotos.ca
+# www.dmphotos.ca
 
 Dhruvil Mehta's photo portfolio, moved off Format (dhruvil.format.com) to free GitHub Pages hosting.
 
@@ -14,4 +14,4 @@ The page uses Format's own "Clarity" theme CSS and gallery JavaScript (masonry l
 The quickest way is to ask Claude. To do it by hand, add the new image to `_scrape/images/` and `_scrape/images.json` on the `scrape` branch, then rerun:
 
     python3 tools/images.py _scrape site/images
-    python3 tools/build.py _scrape site dmphotos.ca path/to/@fontsource/dm-sans
+    python3 tools/build.py _scrape site www.dmphotos.ca path/to/@fontsource/dm-sans
