@@ -112,6 +112,8 @@ def section(start, end):
 browser_selector = section("<script type='text/javascript'>\ntry{function css_browser_selector", '</script>')
 body_open = section('<body', '>')
 body_main = section('<header class="header', '</footer>')
+body_main = body_main.replace('    © All rights reserved\n</footer>',
+                            '    © All rights reserved\n    <div class="made-with" style="margin-top: 8px;">made with 💙 by daedalus</div>\n</footer>')
 popup = section('<section id="popup"', '</section>')
 
 def build(prefix, canonical):
