@@ -1,0 +1,805 @@
+https://bucket1.format-assets.com/theme_versions/11002439/assets/js/hammer.min.js -> assets/bucket1.format-assets.com/theme_versions/11002439/assets/js/hammer.min.js
+https://bucket1.format-assets.com/theme_versions/11002439/assets/js/jquery.hammer.js -> assets/bucket1.format-assets.com/theme_versions/11002439/assets/js/jquery.hammer.js
+https://bucket1.format-assets.com/theme_versions/11002439/assets/js/lazysizes.min.js -> assets/bucket1.format-assets.com/theme_versions/11002439/assets/js/lazysizes.min.js
+https://bucket1.format-assets.com/theme_versions/11002439/assets/js/ls.parent-fit.min.js -> assets/bucket1.format-assets.com/theme_versions/11002439/assets/js/ls.parent-fit.min.js
+https://bucket1.format-assets.com/theme_versions/11002439/assets/js/modernizr.min.js -> assets/bucket1.format-assets.com/theme_versions/11002439/assets/js/modernizr.min.js
+https://bucket1.format-assets.com/theme_versions/11002439/assets/js/theme.js -> assets/bucket1.format-assets.com/theme_versions/11002439/assets/js/theme.js
+https://dhruvil.format.com/fonts/ss-standard-v2/ss-standard.css -> assets/dhruvil.format.com/fonts/ss-standard-v2/ss-standard.css
+https://dhruvil.format.com/fonts/ss-standard-v2/ss-standard.eot -> assets/dhruvil.format.com/fonts/ss-standard-v2/ss-standard.eot
+https://dhruvil.format.com/fonts/ss-standard-v2/ss-standard.svg -> assets/dhruvil.format.com/fonts/ss-standard-v2/ss-standard.svg
+https://dhruvil.format.com/fonts/ss-standard-v2/ss-standard.ttf -> assets/dhruvil.format.com/fonts/ss-standard-v2/ss-standard.ttf
+https://dhruvil.format.com/fonts/ss-standard-v2/ss-standard.woff -> assets/dhruvil.format.com/fonts/ss-standard-v2/ss-standard.woff
+https://dhruvil.format.com/static/_common/animation-7fc12d665fca943072e7f3c6c84d756b935958c9d92f8a940de7dcfd69c2b253.css -> assets/dhruvil.format.com/static/_common/animation-7fc12d665fca943072e7f3c6c84d756b935958c9d92f8a940de7dcfd69c2b253.css
+https://dhruvil.format.com/static/blank-2f561b02a49376e3679acd5975e3790abdff09ecbadfa1e1858c7ba26e3ffcef.gif -> assets/dhruvil.format.com/static/blank-2f561b02a49376e3679acd5975e3790abdff09ecbadfa1e1858c7ba26e3ffcef.gif
+https://dhruvil.format.com/static/cart_button_background-ea2890d7f86181f02d978dac735dcb16bcd31e89c4b016a9c32f37ab8e67c154.png -> assets/dhruvil.format.com/static/cart_button_background-ea2890d7f86181f02d978dac735dcb16bcd31e89c4b016a9c32f37ab8e67c154.png
+https://dhruvil.format.com/static/favicon-16-58eeac03d06e2402c16e494e44623ab6da7b9e6749eafd5e67b6508888c13452.png -> assets/dhruvil.format.com/static/favicon-16-58eeac03d06e2402c16e494e44623ab6da7b9e6749eafd5e67b6508888c13452.png
+https://dhruvil.format.com/static/favicon-192-36a03c4d1a4754694fea4f56150aa9d363ab3cbcc0dae286f87e3f47979c55f9.png -> assets/dhruvil.format.com/static/favicon-192-36a03c4d1a4754694fea4f56150aa9d363ab3cbcc0dae286f87e3f47979c55f9.png
+https://dhruvil.format.com/static/favicon-32-7b151b5cb1ea57453cf4f6e4dca6e59f40b326568045ed7ee8e2da4ad0096e63.png -> assets/dhruvil.format.com/static/favicon-32-7b151b5cb1ea57453cf4f6e4dca6e59f40b326568045ed7ee8e2da4ad0096e63.png
+https://dhruvil.format.com/static/favicon-4d5d29a3d0c65fc55e7f5842b848ba5b147583967e850eb848a4e49c9166302f.ico -> assets/dhruvil.format.com/static/favicon-4d5d29a3d0c65fc55e7f5842b848ba5b147583967e850eb848a4e49c9166302f.ico
+https://dhruvil.format.com/static/favicon-96-fd00130996e46dd74db83867237ee7b02e48d37456ed20a348ee43b5c6b6b576.png -> assets/dhruvil.format.com/static/favicon-96-fd00130996e46dd74db83867237ee7b02e48d37456ed20a348ee43b5c6b6b576.png
+https://dhruvil.format.com/static/heart-fdbd4f0c82adfe04d7251886935bf91ac9a3948c951353b40cf519eb034bcf6f.svg -> assets/dhruvil.format.com/static/heart-fdbd4f0c82adfe04d7251886935bf91ac9a3948c951353b40cf519eb034bcf6f.svg
+https://dhruvil.format.com/static/left-balloon-ellipses-9b27c618ded2344503f9ff2c3022152ef29618b6fde3931dabc5f07b1d92e8a6.svg -> assets/dhruvil.format.com/static/left-balloon-ellipses-9b27c618ded2344503f9ff2c3022152ef29618b6fde3931dabc5f07b1d92e8a6.svg
+https://dhruvil.format.com/static/spinner_fsg-b02531944c4b84204b03936e9eac74fb537d0e64a02e7d9c8704cfa2506a2edf.gif -> assets/dhruvil.format.com/static/spinner_fsg-b02531944c4b84204b03936e9eac74fb537d0e64a02e7d9c8704cfa2506a2edf.gif
+https://dhruvil.format.com/static/theme_api/v1/hosted_fonts-58e499298cb6db37c90c2bd6bd2ad287c8423ad12d9c2cc346a2af9afc8b7fd4.css -> assets/dhruvil.format.com/static/theme_api/v1/hosted_fonts-58e499298cb6db37c90c2bd6bd2ad287c8423ad12d9c2cc346a2af9afc8b7fd4.css
+https://dhruvil.format.com/static/theme_api/v1/protected_images-6cc002aad772e14af53bbbb966d0611491b39e25fc8fba42e94598f98d535828.css -> assets/dhruvil.format.com/static/theme_api/v1/protected_images-6cc002aad772e14af53bbbb966d0611491b39e25fc8fba42e94598f98d535828.css
+https://dhruvil.format.com/static/theme_api/v2/4ormat-e088fb6c1097c20c291d4a9defccb3bfc0e50c979778ac4356c51f13f7500fc0.js -> assets/dhruvil.format.com/static/theme_api/v2/4ormat-e088fb6c1097c20c291d4a9defccb3bfc0e50c979778ac4356c51f13f7500fc0.js
+https://dhruvil.format.com/static/theme_api/v2/blog-821ca8b2c79c197095f11fc4e0677ae3a03040de59d4e43137aa71f2fc8c363e.css -> assets/dhruvil.format.com/static/theme_api/v2/blog-821ca8b2c79c197095f11fc4e0677ae3a03040de59d4e43137aa71f2fc8c363e.css
+https://dhruvil.format.com/static/theme_api/v2/blog_caption_icons-52759980562379d2eedc76fc78409ef1cb342f394d441cdd6fdf39a198ee9e07.png -> assets/dhruvil.format.com/static/theme_api/v2/blog_caption_icons-52759980562379d2eedc76fc78409ef1cb342f394d441cdd6fdf39a198ee9e07.png
+https://dhruvil.format.com/static/theme_api/v2/blog_caption_icons@2x-0ba3f2cf08098021b4dc929c0b83328f15285729311bf79e7ccb25f81baf9e8a.png -> assets/dhruvil.format.com/static/theme_api/v2/blog_caption_icons@2x-0ba3f2cf08098021b4dc929c0b83328f15285729311bf79e7ccb25f81baf9e8a.png
+https://dhruvil.format.com/static/theme_api/v2/blog_defaults-79d70c55d366b40da8280df474b120c87e1c1def50e6c75a4c54fc0ec914deeb.css -> assets/dhruvil.format.com/static/theme_api/v2/blog_defaults-79d70c55d366b40da8280df474b120c87e1c1def50e6c75a4c54fc0ec914deeb.css
+https://dhruvil.format.com/static/theme_api/v2/blog_ui_sprite-54cad8d822a82c94240e4fc65e092fe18210544edeb8ce733a767febd671b888.png -> assets/dhruvil.format.com/static/theme_api/v2/blog_ui_sprite-54cad8d822a82c94240e4fc65e092fe18210544edeb8ce733a767febd671b888.png
+https://dhruvil.format.com/static/theme_api/v2/blog_ui_sprite@2x-9c98a591348e1f5758b1f4ed6efd41de6c4d44546ea3709e7994a3cd8eae2273.png -> assets/dhruvil.format.com/static/theme_api/v2/blog_ui_sprite@2x-9c98a591348e1f5758b1f4ed6efd41de6c4d44546ea3709e7994a3cd8eae2273.png
+https://dhruvil.format.com/static/theme_api/v2/client_access/client-634c683b907ed9cdb94cf1f2d346b39f145813827eba5a8eee652ad6bf617dfe.css -> assets/dhruvil.format.com/static/theme_api/v2/client_access/client-634c683b907ed9cdb94cf1f2d346b39f145813827eba5a8eee652ad6bf617dfe.css
+https://dhruvil.format.com/static/theme_api/v2/client_access/client_modal-8620ecc2b4f7c5729898100d14a7f9a01e7e1edb0a16449ae712f0b9175ee884.css -> assets/dhruvil.format.com/static/theme_api/v2/client_access/client_modal-8620ecc2b4f7c5729898100d14a7f9a01e7e1edb0a16449ae712f0b9175ee884.css
+https://dhruvil.format.com/static/theme_api/v2/fancybox_loading-b8681cce947f5b28ed3181b11601e2470b40811722a49564d1271e7b40015064.gif -> assets/dhruvil.format.com/static/theme_api/v2/fancybox_loading-b8681cce947f5b28ed3181b11601e2470b40811722a49564d1271e7b40015064.gif
+https://dhruvil.format.com/static/theme_api/v2/fancybox_loading@2x-73b27f9aeb7bc6ee3c4bd20742382f015efd89981a3706d2a29a50867849629c.gif -> assets/dhruvil.format.com/static/theme_api/v2/fancybox_loading@2x-73b27f9aeb7bc6ee3c4bd20742382f015efd89981a3706d2a29a50867849629c.gif
+https://dhruvil.format.com/static/theme_api/v2/sales/cart-3137be63ee8f4db6bcb259cee44189b5c02b79f200f29a982bdea5efeef418a6.css -> assets/dhruvil.format.com/static/theme_api/v2/sales/cart-3137be63ee8f4db6bcb259cee44189b5c02b79f200f29a982bdea5efeef418a6.css
+https://dhruvil.format.com/static/theme_api/v2/share_panel-1a26721acae26eabd7c32296e2ee8cf053d1a1a8d9f7c49f0df899bc27b784c1.css -> assets/dhruvil.format.com/static/theme_api/v2/share_panel-1a26721acae26eabd7c32296e2ee8cf053d1a1a8d9f7c49f0df899bc27b784c1.css
+https://dhruvil.format.com/static/theme_api/v2/theme_social-c1a1efec6fec6394de599718f42893465add95600b60ad31fb468ad0a69147a5.css -> assets/dhruvil.format.com/static/theme_api/v2/theme_social-c1a1efec6fec6394de599718f42893465add95600b60ad31fb468ad0a69147a5.css
+https://dhruvil.format.com/static/theme_api/v2/turbolinks-2.5.3-format-b802e11287adb103d1cb3e2f99426bc12854d0b0f06d9463b37099f7b814e087.js -> assets/dhruvil.format.com/static/theme_api/v2/turbolinks-2.5.3-format-b802e11287adb103d1cb3e2f99426bc12854d0b0f06d9463b37099f7b814e087.js
+https://dhruvil.format.com/static/theme_api/vendor/960_simple-1-80ab8eb2695abe415bd536608db207267db1a467f2841da1c01b06c3559dd9c6.css -> assets/dhruvil.format.com/static/theme_api/vendor/960_simple-1-80ab8eb2695abe415bd536608db207267db1a467f2841da1c01b06c3559dd9c6.css
+https://dhruvil.format.com/static/theme_api/vendor/font-awesome.min-3.0.2-0faf6cb4e7511d614ae3d904c29e20340c56e8b28ffd9938a94b5e1cce70bb80.css -> assets/dhruvil.format.com/static/theme_api/vendor/font-awesome.min-3.0.2-0faf6cb4e7511d614ae3d904c29e20340c56e8b28ffd9938a94b5e1cce70bb80.css
+https://dhruvil.format.com/static/theme_api/vendor/imagesLoaded-1-fed646d96c533248c7385df7e92f61e013ef9b32b96ef4dd4adb658fc40375c6.js -> assets/dhruvil.format.com/static/theme_api/vendor/imagesLoaded-1-fed646d96c533248c7385df7e92f61e013ef9b32b96ef4dd4adb658fc40375c6.js
+https://dhruvil.format.com/static/theme_api/vendor/jquery-1.11.2.min-cc83565074b3fa7f2283f7f4d56b90ad171ede87008448ed5d2e91c50575bed1.js -> assets/dhruvil.format.com/static/theme_api/vendor/jquery-1.11.2.min-cc83565074b3fa7f2283f7f4d56b90ad171ede87008448ed5d2e91c50575bed1.js
+https://dhruvil.format.com/static/theme_api/vendor/masonry.pkgd-4.2.2.min-8d645c617dae902d017672ffda525cc733715da09ddf3d8e52129f0ac480f0c6.js -> assets/dhruvil.format.com/static/theme_api/vendor/masonry.pkgd-4.2.2.min-8d645c617dae902d017672ffda525cc733715da09ddf3d8e52129f0ac480f0c6.js
+https://dhruvil.format.com/static/theme_api/vendor/picturefill-3.0.1.min-42b49d55847c0942adf67da10c38ad3f9ba0c7f5481a1f642e30e0bc5041d0e4.js -> assets/dhruvil.format.com/static/theme_api/vendor/picturefill-3.0.1.min-42b49d55847c0942adf67da10c38ad3f9ba0c7f5481a1f642e30e0bc5041d0e4.js
+https://dhruvil.format.com/static/theme_api/vendor/webtype_fonts.min-a27384810945198dd373502796bfbada62cc8409c49831a8778ac894e78f7749.css -> assets/dhruvil.format.com/static/theme_api/vendor/webtype_fonts.min-a27384810945198dd373502796bfbada62cc8409c49831a8778ac894e78f7749.css
+https://dhruvil.format.com/static/vid_overlay-b935013b5cebeedb8f5d5f3e7b0c48ee08c556e2db6888045b216f172195e632.png -> assets/dhruvil.format.com/static/vid_overlay-b935013b5cebeedb8f5d5f3e7b0c48ee08c556e2db6888045b216f172195e632.png
+https://dhruvil.format.com/stylesheet.css?v=2026-10-09T13:03:39Z -> assets/dhruvil.format.com/stylesheet.css__v_2026-10-09T13_03_39Z
+https://format-fonts.format.com/format/Archivo/archivo-black-v7-latin-regular.woff -> assets/format-fonts.format.com/format/Archivo/archivo-black-v7-latin-regular.woff
+https://format-fonts.format.com/format/Archivo/archivo-black-v7-latin-regular.woff2 -> assets/format-fonts.format.com/format/Archivo/archivo-black-v7-latin-regular.woff2
+https://format-fonts.format.com/format/Bagnad/bagnard-webfont.woff -> assets/format-fonts.format.com/format/Bagnad/bagnard-webfont.woff
+https://format-fonts.format.com/format/Bagnad/bagnard-webfont.woff2 -> assets/format-fonts.format.com/format/Bagnad/bagnard-webfont.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Bold Italic.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Bold Italic.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Bold Italic.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Bold Italic.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Bold.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Bold.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Bold.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Bold.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold Italic.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold Italic.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold Italic.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold Italic.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Bold.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Italic.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Italic.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Italic.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Italic.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Regular.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Regular.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Regular.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Condensed Regular.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold Italic.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold Italic.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold Italic.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold Italic.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Bold.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Italic.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Italic.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Italic.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Italic.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Regular.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Regular.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Regular.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Extra Condensed Regular.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Italic.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Italic.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Italic.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Italic.woff2
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Regular.woff -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Regular.woff
+https://format-fonts.format.com/format/BennetBanner/Bennet Banner Regular.woff2 -> assets/format-fonts.format.com/format/BennetBanner/Bennet Banner Regular.woff2
+https://format-fonts.format.com/format/BluuNext/bluunext-bold-webfont.woff -> assets/format-fonts.format.com/format/BluuNext/bluunext-bold-webfont.woff
+https://format-fonts.format.com/format/BluuNext/bluunext-bold-webfont.woff2 -> assets/format-fonts.format.com/format/BluuNext/bluunext-bold-webfont.woff2
+https://format-fonts.format.com/format/BluuNext/bluunext-bolditalic-webfont.woff -> assets/format-fonts.format.com/format/BluuNext/bluunext-bolditalic-webfont.woff
+https://format-fonts.format.com/format/BluuNext/bluunext-bolditalic-webfont.woff2 -> assets/format-fonts.format.com/format/BluuNext/bluunext-bolditalic-webfont.woff2
+https://format-fonts.format.com/format/DollyPro/Dolly Pro Bold.woff -> assets/format-fonts.format.com/format/DollyPro/Dolly Pro Bold.woff
+https://format-fonts.format.com/format/DollyPro/Dolly Pro Bold.woff2 -> assets/format-fonts.format.com/format/DollyPro/Dolly Pro Bold.woff2
+https://format-fonts.format.com/format/DollyPro/Dolly Pro Regular Italic.woff -> assets/format-fonts.format.com/format/DollyPro/Dolly Pro Regular Italic.woff
+https://format-fonts.format.com/format/DollyPro/Dolly Pro Regular Italic.woff2 -> assets/format-fonts.format.com/format/DollyPro/Dolly Pro Regular Italic.woff2
+https://format-fonts.format.com/format/DollyPro/Dolly Pro Regular.woff -> assets/format-fonts.format.com/format/DollyPro/Dolly Pro Regular.woff
+https://format-fonts.format.com/format/DollyPro/Dolly Pro Regular.woff2 -> assets/format-fonts.format.com/format/DollyPro/Dolly Pro Regular.woff2
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold Italic.woff -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold Italic.woff
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold Italic.woff2 -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold Italic.woff2
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold.woff -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold.woff
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold.woff2 -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Bold.woff2
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Italic.woff -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Italic.woff
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Italic.woff2 -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Italic.woff2
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Light Italic.woff -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Light Italic.woff
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Light Italic.woff2 -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Light Italic.woff2
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Light.woff -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Light.woff
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Light.woff2 -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Light.woff2
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Regular.woff -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Regular.woff
+https://format-fonts.format.com/format/FormaDjr/Forma DJR Display Regular.woff2 -> assets/format-fonts.format.com/format/FormaDjr/Forma DJR Display Regular.woff2
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold Italic.woff -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold Italic.woff
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold Italic.woff2 -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold Italic.woff2
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold.woff -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold.woff
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold.woff2 -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Bold.woff2
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book Italic.woff -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book Italic.woff
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book Italic.woff2 -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book Italic.woff2
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book.woff -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book.woff
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book.woff2 -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Book.woff2
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light Italic.woff -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light Italic.woff
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light Italic.woff2 -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light Italic.woff2
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light.woff -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light.woff
+https://format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light.woff2 -> assets/format-fonts.format.com/format/FreightBigPro/Freight Big Pro Light.woff2
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold Italic.woff -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold Italic.woff
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold Italic.woff2 -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold Italic.woff2
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold.woff -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold.woff
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold.woff2 -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Bold.woff2
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book Italic.woff -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book Italic.woff
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book Italic.woff2 -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book Italic.woff2
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book.woff -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book.woff
+https://format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book.woff2 -> assets/format-fonts.format.com/format/FreightTextPro/Freight Text Pro Book.woff2
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Black.woff -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Black.woff
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Black.woff2 -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Black.woff2
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Bold.woff -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Bold.woff
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Bold.woff2 -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Bold.woff2
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Light.woff -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Light.woff
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Light.woff2 -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Light.woff2
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Medium.woff -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Medium.woff
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Medium.woff2 -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Medium.woff2
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Regular.woff -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Regular.woff
+https://format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Regular.woff2 -> assets/format-fonts.format.com/format/InknutAntiqua/InknutAntiqua-Regular.woff2
+https://format-fonts.format.com/format/Joost/Joost Bold.woff -> assets/format-fonts.format.com/format/Joost/Joost Bold.woff
+https://format-fonts.format.com/format/Joost/Joost Bold.woff2 -> assets/format-fonts.format.com/format/Joost/Joost Bold.woff2
+https://format-fonts.format.com/format/Joost/Joost Light.woff -> assets/format-fonts.format.com/format/Joost/Joost Light.woff
+https://format-fonts.format.com/format/Joost/Joost Light.woff2 -> assets/format-fonts.format.com/format/Joost/Joost Light.woff2
+https://format-fonts.format.com/format/Joost/Joost Regular.woff -> assets/format-fonts.format.com/format/Joost/Joost Regular.woff
+https://format-fonts.format.com/format/Joost/Joost Regular.woff2 -> assets/format-fonts.format.com/format/Joost/Joost Regular.woff2
+https://format-fonts.format.com/format/Museo/Museo300-Regular-webfont.eot -> assets/format-fonts.format.com/format/Museo/Museo300-Regular-webfont.eot
+https://format-fonts.format.com/format/Museo/Museo300-Regular-webfont.svg -> assets/format-fonts.format.com/format/Museo/Museo300-Regular-webfont.svg
+https://format-fonts.format.com/format/Museo/Museo300-Regular-webfont.ttf -> assets/format-fonts.format.com/format/Museo/Museo300-Regular-webfont.ttf
+https://format-fonts.format.com/format/Museo/Museo300-Regular-webfont.woff -> assets/format-fonts.format.com/format/Museo/Museo300-Regular-webfont.woff
+https://format-fonts.format.com/format/Museo/Museo700-Regular-webfont.eot -> assets/format-fonts.format.com/format/Museo/Museo700-Regular-webfont.eot
+https://format-fonts.format.com/format/Museo/Museo700-Regular-webfont.svg -> assets/format-fonts.format.com/format/Museo/Museo700-Regular-webfont.svg
+https://format-fonts.format.com/format/Museo/Museo700-Regular-webfont.ttf -> assets/format-fonts.format.com/format/Museo/Museo700-Regular-webfont.ttf
+https://format-fonts.format.com/format/Museo/Museo700-Regular-webfont.woff -> assets/format-fonts.format.com/format/Museo/Museo700-Regular-webfont.woff
+https://format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.eot -> assets/format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.eot
+https://format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.svg -> assets/format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.svg
+https://format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.ttf -> assets/format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.ttf
+https://format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.woff -> assets/format-fonts.format.com/format/NewsCycleRegular/NewsCycle-Regular-webfont.woff
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700.woff -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700.woff
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700.woff2 -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700.woff2
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700italic.woff -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700italic.woff
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700italic.woff2 -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-700italic.woff2
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-900.woff -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-900.woff
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-900.woff2 -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-900.woff2
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-italic.woff -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-italic.woff
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-italic.woff2 -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-italic.woff2
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-regular.woff -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-regular.woff
+https://format-fonts.format.com/format/Playfair/playfair-display-v13-latin-regular.woff2 -> assets/format-fonts.format.com/format/Playfair/playfair-display-v13-latin-regular.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-100.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-100.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-100.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-100.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-100italic.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-100italic.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-100italic.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-100italic.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-500.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-500.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-500.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-500.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-500italic.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-500italic.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-500italic.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-500italic.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-700.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-700.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-700.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-700.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-700italic.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-700italic.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-700italic.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-700italic.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-italic.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-italic.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-italic.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-italic.woff2
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-regular.woff -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-regular.woff
+https://format-fonts.format.com/format/Poppins/poppins-v5-latin-regular.woff2 -> assets/format-fonts.format.com/format/Poppins/poppins-v5-latin-regular.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Black Italic.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Black Italic.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Black Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Black Italic.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Black.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Black.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Black.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Black.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Bold Italic.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Bold Italic.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Bold Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Bold Italic.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Bold.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Bold.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Bold.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Bold.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Light Italic.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Light Italic.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Light Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Light Italic.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Light.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Light.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Light.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Light.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Regular Italic.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Regular Italic.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Regular Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Regular Italic.woff2
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Regular.woff -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Regular.woff
+https://format-fonts.format.com/format/ProximaNova/Proxima Nova Regular.woff2 -> assets/format-fonts.format.com/format/ProximaNova/Proxima Nova Regular.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black Italic.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black Italic.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black Italic.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Black.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold Italic.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold Italic.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold Italic.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Bold.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light Italic.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light Italic.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light Italic.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Light.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular Italic.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular Italic.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular Italic.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular Italic.woff2
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular.woff -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular.woff
+https://format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular.woff2 -> assets/format-fonts.format.com/format/ProximaNovaCondensed/Proxima Nova Condensed Regular.woff2
+https://format-fonts.format.com/format/PxGrotesk/PxGrotesk-Bold.woff -> assets/format-fonts.format.com/format/PxGrotesk/PxGrotesk-Bold.woff
+https://format-fonts.format.com/format/PxGrotesk/PxGrotesk-Light.woff -> assets/format-fonts.format.com/format/PxGrotesk/PxGrotesk-Light.woff
+https://format-fonts.format.com/format/PxGrotesk/PxGrotesk-Regular.woff -> assets/format-fonts.format.com/format/PxGrotesk/PxGrotesk-Regular.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-200.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-200.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-200.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-200.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-200italic.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-200italic.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-200italic.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-200italic.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-700.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-700.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-700.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-700.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-700italic.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-700italic.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-700italic.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-700italic.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-900.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-900.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-900.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-900.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-900italic.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-900italic.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-900italic.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-900italic.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-italic.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-italic.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-italic.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-italic.woff2
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-regular.woff -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-regular.woff
+https://format-fonts.format.com/format/Raleway/raleway-v12-latin-regular.woff2 -> assets/format-fonts.format.com/format/Raleway/raleway-v12-latin-regular.woff2
+https://format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.eot -> assets/format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.eot
+https://format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.svg -> assets/format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.svg
+https://format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.ttf -> assets/format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.ttf
+https://format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.woff -> assets/format-fonts.format.com/format/Roboto/Roboto-Medium-webfont.woff
+https://format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.eot -> assets/format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.eot
+https://format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.svg -> assets/format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.svg
+https://format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.ttf -> assets/format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.ttf
+https://format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.woff -> assets/format-fonts.format.com/format/Roboto/Roboto-Regular-webfont.woff
+https://format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Bold.woff -> assets/format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Bold.woff
+https://format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Bold.woff2 -> assets/format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Bold.woff2
+https://format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Regular.woff -> assets/format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Regular.woff
+https://format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Regular.woff2 -> assets/format-fonts.format.com/format/SportingGrotesque/Sporting_Grotesque-Regular.woff2
+https://format-fonts.format.com/format/UntitledSans/UntitledSans-Medium.woff -> assets/format-fonts.format.com/format/UntitledSans/UntitledSans-Medium.woff
+https://format-fonts.format.com/format/UntitledSans/UntitledSans-Regular.woff -> assets/format-fonts.format.com/format/UntitledSans/UntitledSans-Regular.woff
+https://format-fonts.format.com/format/WorkSans/WorkSans-Black.woff -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Black.woff
+https://format-fonts.format.com/format/WorkSans/WorkSans-Black.woff2 -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Black.woff2
+https://format-fonts.format.com/format/WorkSans/WorkSans-Bold.woff -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Bold.woff
+https://format-fonts.format.com/format/WorkSans/WorkSans-Bold.woff2 -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Bold.woff2
+https://format-fonts.format.com/format/WorkSans/WorkSans-ExtraBold.woff -> assets/format-fonts.format.com/format/WorkSans/WorkSans-ExtraBold.woff
+https://format-fonts.format.com/format/WorkSans/WorkSans-ExtraBold.woff2 -> assets/format-fonts.format.com/format/WorkSans/WorkSans-ExtraBold.woff2
+https://format-fonts.format.com/format/WorkSans/WorkSans-Light.woff -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Light.woff
+https://format-fonts.format.com/format/WorkSans/WorkSans-Light.woff2 -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Light.woff2
+https://format-fonts.format.com/format/WorkSans/WorkSans-Regular.woff -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Regular.woff
+https://format-fonts.format.com/format/WorkSans/WorkSans-Regular.woff2 -> assets/format-fonts.format.com/format/WorkSans/WorkSans-Regular.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black Italic.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black Italic.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black Italic.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black Italic.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Black.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold Italic.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold Italic.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold Italic.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold Italic.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Bold.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light Italic.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light Italic.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light Italic.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light Italic.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Light.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular Italic.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular Italic.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular Italic.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular Italic.woff2
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular.woff -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular.woff
+https://format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular.woff2 -> assets/format-fonts.format.com/format/ZeitungPro/Zeitung Pro Regular.woff2
+https://format-fonts.format.com/format/aller/aller_bd-webfont.eot -> assets/format-fonts.format.com/format/aller/aller_bd-webfont.eot
+https://format-fonts.format.com/format/aller/aller_bd-webfont.svg -> assets/format-fonts.format.com/format/aller/aller_bd-webfont.svg
+https://format-fonts.format.com/format/aller/aller_bd-webfont.ttf -> assets/format-fonts.format.com/format/aller/aller_bd-webfont.ttf
+https://format-fonts.format.com/format/aller/aller_bd-webfont.woff -> assets/format-fonts.format.com/format/aller/aller_bd-webfont.woff
+https://format-fonts.format.com/format/aller/aller_rg-webfont.eot -> assets/format-fonts.format.com/format/aller/aller_rg-webfont.eot
+https://format-fonts.format.com/format/aller/aller_rg-webfont.svg -> assets/format-fonts.format.com/format/aller/aller_rg-webfont.svg
+https://format-fonts.format.com/format/aller/aller_rg-webfont.ttf -> assets/format-fonts.format.com/format/aller/aller_rg-webfont.ttf
+https://format-fonts.format.com/format/aller/aller_rg-webfont.woff -> assets/format-fonts.format.com/format/aller/aller_rg-webfont.woff
+https://format-fonts.format.com/format/anivers/Anivers_Regular-webfont.eot -> assets/format-fonts.format.com/format/anivers/Anivers_Regular-webfont.eot
+https://format-fonts.format.com/format/anivers/Anivers_Regular-webfont.svg -> assets/format-fonts.format.com/format/anivers/Anivers_Regular-webfont.svg
+https://format-fonts.format.com/format/anivers/Anivers_Regular-webfont.ttf -> assets/format-fonts.format.com/format/anivers/Anivers_Regular-webfont.ttf
+https://format-fonts.format.com/format/anivers/Anivers_Regular-webfont.woff -> assets/format-fonts.format.com/format/anivers/Anivers_Regular-webfont.woff
+https://format-fonts.format.com/format/artigo-display/ArtigoDisplay-Regular.woff -> assets/format-fonts.format.com/format/artigo-display/ArtigoDisplay-Regular.woff
+https://format-fonts.format.com/format/artigo-display/ArtigoDisplay-Regular.woff2 -> assets/format-fonts.format.com/format/artigo-display/ArtigoDisplay-Regular.woff2
+https://format-fonts.format.com/format/cofo-sans/CoFoSans-Black.woff -> assets/format-fonts.format.com/format/cofo-sans/CoFoSans-Black.woff
+https://format-fonts.format.com/format/cofo-sans/CoFoSans-Black.woff2 -> assets/format-fonts.format.com/format/cofo-sans/CoFoSans-Black.woff2
+https://format-fonts.format.com/format/cofo-sans/CoFoSans-Light.woff -> assets/format-fonts.format.com/format/cofo-sans/CoFoSans-Light.woff
+https://format-fonts.format.com/format/cofo-sans/CoFoSans-Light.woff2 -> assets/format-fonts.format.com/format/cofo-sans/CoFoSans-Light.woff2
+https://format-fonts.format.com/format/cofo-sans/CoFoSans-Medium.woff -> assets/format-fonts.format.com/format/cofo-sans/CoFoSans-Medium.woff
+https://format-fonts.format.com/format/cofo-sans/CoFoSans-Medium.woff2 -> assets/format-fonts.format.com/format/cofo-sans/CoFoSans-Medium.woff2
+https://format-fonts.format.com/format/karol-sans/KarolSans-Book.woff -> assets/format-fonts.format.com/format/karol-sans/KarolSans-Book.woff
+https://format-fonts.format.com/format/karol-sans/KarolSans-Book.woff2 -> assets/format-fonts.format.com/format/karol-sans/KarolSans-Book.woff2
+https://format-fonts.format.com/format/parkinson/Parkinson-Bold.woff -> assets/format-fonts.format.com/format/parkinson/Parkinson-Bold.woff
+https://format-fonts.format.com/format/parkinson/Parkinson-Bold.woff2 -> assets/format-fonts.format.com/format/parkinson/Parkinson-Bold.woff2
+https://format-fonts.format.com/format/parkinson/Parkinson-BoldItalic.woff -> assets/format-fonts.format.com/format/parkinson/Parkinson-BoldItalic.woff
+https://format-fonts.format.com/format/parkinson/Parkinson-BoldItalic.woff2 -> assets/format-fonts.format.com/format/parkinson/Parkinson-BoldItalic.woff2
+https://format-fonts.format.com/format/parkinson/Parkinson-Italic.woff -> assets/format-fonts.format.com/format/parkinson/Parkinson-Italic.woff
+https://format-fonts.format.com/format/parkinson/Parkinson-Italic.woff2 -> assets/format-fonts.format.com/format/parkinson/Parkinson-Italic.woff2
+https://format-fonts.format.com/format/parkinson/Parkinson-Roman.woff -> assets/format-fonts.format.com/format/parkinson/Parkinson-Roman.woff
+https://format-fonts.format.com/format/parkinson/Parkinson-Roman.woff2 -> assets/format-fonts.format.com/format/parkinson/Parkinson-Roman.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Black.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Black.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Black.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Black.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-BlackItalic.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-BlackItalic.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-BlackItalic.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-BlackItalic.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedBlack.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedBlack.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedBlack.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedBlack.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedItalic.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedItalic.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedItalic.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedItalic.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedRegular.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedRegular.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedRegular.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedRegular.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedSemiBold.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedSemiBold.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedSemiBold.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-CondensedSemiBold.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Italic.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Italic.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Italic.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Italic.woff2
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Regular.woff -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Regular.woff
+https://format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Regular.woff2 -> assets/format-fonts.format.com/format/parry-grotesque/ParryGrotesque-Regular.woff2
+https://format-fonts.format.com/format/parry/Parry-Bold.woff -> assets/format-fonts.format.com/format/parry/Parry-Bold.woff
+https://format-fonts.format.com/format/parry/Parry-Bold.woff2 -> assets/format-fonts.format.com/format/parry/Parry-Bold.woff2
+https://format-fonts.format.com/format/parry/Parry-BoldItalic.woff -> assets/format-fonts.format.com/format/parry/Parry-BoldItalic.woff
+https://format-fonts.format.com/format/parry/Parry-BoldItalic.woff2 -> assets/format-fonts.format.com/format/parry/Parry-BoldItalic.woff2
+https://format-fonts.format.com/format/parry/Parry-Light.woff -> assets/format-fonts.format.com/format/parry/Parry-Light.woff
+https://format-fonts.format.com/format/parry/Parry-Light.woff2 -> assets/format-fonts.format.com/format/parry/Parry-Light.woff2
+https://format-fonts.format.com/format/parry/Parry-LightItalic.woff -> assets/format-fonts.format.com/format/parry/Parry-LightItalic.woff
+https://format-fonts.format.com/format/parry/Parry-LightItalic.woff2 -> assets/format-fonts.format.com/format/parry/Parry-LightItalic.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Bold.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Bold.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Bold.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Bold.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-BoldItalic.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-BoldItalic.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-BoldItalic.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-BoldItalic.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBold.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBold.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBold.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBold.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBoldItalic.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBoldItalic.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBoldItalic.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedBoldItalic.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedItalic.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedItalic.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedItalic.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedItalic.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedRegular.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedRegular.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedRegular.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-CondensedRegular.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Italic.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Italic.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Italic.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Italic.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Light.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Light.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Light.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Light.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-LightItalic.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-LightItalic.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-LightItalic.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-LightItalic.woff2
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Regular.woff -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Regular.woff
+https://format-fonts.format.com/format/salvo-sans/SalvoSans-Regular.woff2 -> assets/format-fonts.format.com/format/salvo-sans/SalvoSans-Regular.woff2
+https://format-fonts.format.com/format/theme_social/theme_social.eot?20151210 -> assets/format-fonts.format.com/format/theme_social/theme_social.eot__20151210
+https://format-fonts.format.com/format/theme_social/theme_social.svg?20151210 -> assets/format-fonts.format.com/format/theme_social/theme_social.svg__20151210
+https://format-fonts.format.com/format/theme_social/theme_social.ttf?20151210 -> assets/format-fonts.format.com/format/theme_social/theme_social.ttf__20151210
+https://format-fonts.format.com/format/theme_social/theme_social.woff?20151210 -> assets/format-fonts.format.com/format/theme_social/theme_social.woff__20151210
+https://format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-1.ttf -> assets/format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-1.ttf
+https://format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-2.eot -> assets/format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-2.eot
+https://format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-3.woff -> assets/format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-3.woff
+https://format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-4.svg -> assets/format-fonts.format.com/webtype/Aften-Screen-Bold/88479bde-6a39-4b6e-aaed-af48b130da28-4.svg
+https://format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-1.ttf -> assets/format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-1.ttf
+https://format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-2.eot -> assets/format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-2.eot
+https://format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-3.woff -> assets/format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-3.woff
+https://format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-4.svg -> assets/format-fonts.format.com/webtype/Aften-Screen-Italic/bb1a8261-0855-4c51-8f93-921b5bc63c89-4.svg
+https://format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-1.ttf -> assets/format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-1.ttf
+https://format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-2.eot -> assets/format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-2.eot
+https://format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-3.woff -> assets/format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-3.woff
+https://format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-4.svg -> assets/format-fonts.format.com/webtype/Aften-Screen-Regular/2ae5a9c9-8f3a-4357-a982-948f458adc35-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold-Italic/919b346f-6b26-4430-b05b-a6240c560724-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Bold/30842d1e-54a1-4dcb-afd8-7c493fbe3100-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Book-Italic/96cd71c8-36f4-4647-bf21-c924ca37a457-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Book/2ad8ca5d-63ea-4fcf-8c14-559647ca1e70-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold-Italic/e9791ea3-dc75-4039-bca9-98efa66462e0-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Bold/8aa17215-eead-4a1d-801a-6c5104e6bee8-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Italic/a8bb52dc-1516-4539-b80a-53790e5dec21-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Condensed-Regular/abf0a938-6ea7-4e0e-96d4-ef05cd10f561-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular-Italic/133cfed3-4a04-4c6c-aa87-07d80bf73400-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Regular/bd869c90-b1e3-4747-997d-b49ecd097efa-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin-Italic/eb2e772d-8293-43cf-97e2-41f08b83940d-4.svg
+https://format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-1.ttf -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-1.ttf
+https://format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-2.eot -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-2.eot
+https://format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-3.woff -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-3.woff
+https://format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-4.svg -> assets/format-fonts.format.com/webtype/Benton-Sans-Thin/b42c67ee-ca3f-416d-b0e6-78eac4095196-4.svg
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-1.ttf -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-1.ttf
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-2.eot -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-2.eot
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-3.woff -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-3.woff
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-4.svg -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black-Italic/301827b1-b2fa-429e-830d-640877c455a8-4.svg
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-1.ttf -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-1.ttf
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-2.eot -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-2.eot
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-3.woff -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-3.woff
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-4.svg -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Black/99cc8e0a-56aa-4610-a466-33cdbc062e76-4.svg
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-1.ttf -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-1.ttf
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-2.eot -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-2.eot
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-3.woff -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-3.woff
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-4.svg -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Italic/b503e400-67d1-4236-9c20-3c7191c5006d-4.svg
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-1.ttf -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-1.ttf
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-2.eot -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-2.eot
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-3.woff -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-3.woff
+https://format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-4.svg -> assets/format-fonts.format.com/webtype/Big-Caslon-FB-Roman/0b6450f2-c37a-4be2-be45-4a04b22b91d9-4.svg
+https://format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-1.ttf -> assets/format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-1.ttf
+https://format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-2.eot -> assets/format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-2.eot
+https://format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-3.woff -> assets/format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-3.woff
+https://format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-4.svg -> assets/format-fonts.format.com/webtype/Bureau-Grot-Bold/ff5236a1-d1c8-42dd-8b24-047b77ed063d-4.svg
+https://format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-1.ttf -> assets/format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-1.ttf
+https://format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-2.eot -> assets/format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-2.eot
+https://format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-3.woff -> assets/format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-3.woff
+https://format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-4.svg -> assets/format-fonts.format.com/webtype/Bureau-Grot-Book/aec95795-1b02-4e99-a911-3a1a2e5e522b-4.svg
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-1.ttf -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-1.ttf
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-2.eot -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-2.eot
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-3.woff -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-3.woff
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-4.svg -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Bold/c20cfbab-9b46-4572-a75d-083a90d47348-4.svg
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-1.ttf -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-1.ttf
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-2.eot -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-2.eot
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-3.woff -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-3.woff
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-4.svg -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Book/32fcd702-c9f8-4846-8dae-e34bac5e4481-4.svg
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-1.ttf -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-1.ttf
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-2.eot -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-2.eot
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-3.woff -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-3.woff
+https://format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-4.svg -> assets/format-fonts.format.com/webtype/Bureau-Grot-Cond-Light/cfcea70a-d2c4-4808-b5c8-3fa482bb5abf-4.svg
+https://format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-1.ttf -> assets/format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-1.ttf
+https://format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-2.eot -> assets/format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-2.eot
+https://format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-3.woff -> assets/format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-3.woff
+https://format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-4.svg -> assets/format-fonts.format.com/webtype/Bureau-Grot-Light/abd554fb-bf13-497d-8c18-aabfb4395234-4.svg
+https://format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-1.ttf -> assets/format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-1.ttf
+https://format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-2.eot -> assets/format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-2.eot
+https://format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-3.woff -> assets/format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-3.woff
+https://format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-4.svg -> assets/format-fonts.format.com/webtype/Constantia-Bold/181a57df-a50c-4881-95a2-07ebb3d03ef5-4.svg
+https://format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-1.ttf -> assets/format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-1.ttf
+https://format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-2.eot -> assets/format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-2.eot
+https://format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-3.woff -> assets/format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-3.woff
+https://format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-4.svg -> assets/format-fonts.format.com/webtype/Constantia-Italic/b7923010-3fa0-4a7f-8782-d13452380db8-4.svg
+https://format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-1.ttf -> assets/format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-1.ttf
+https://format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-2.eot -> assets/format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-2.eot
+https://format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-3.woff -> assets/format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-3.woff
+https://format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-4.svg -> assets/format-fonts.format.com/webtype/Constantia-Test-Italic/c1bdd120-ace9-4f5d-83d7-6bd29dd94d02-4.svg
+https://format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-1.ttf -> assets/format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-1.ttf
+https://format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-2.eot -> assets/format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-2.eot
+https://format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-3.woff -> assets/format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-3.woff
+https://format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-4.svg -> assets/format-fonts.format.com/webtype/Constantia/66679bff-2230-43a3-beef-4bce37f6696d-4.svg
+https://format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-1.ttf -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-1.ttf
+https://format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-2.eot -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-2.eot
+https://format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-3.woff -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-3.woff
+https://format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-4.svg -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black-Italic/8ee2b410-fdc2-4704-b144-0badf003a66f-4.svg
+https://format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-1.ttf -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-1.ttf
+https://format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-2.eot -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-2.eot
+https://format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-3.woff -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-3.woff
+https://format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-4.svg -> assets/format-fonts.format.com/webtype/Fakir-Pro-Black/a7728401-f352-45a4-9939-707f8aabbb93-4.svg
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-1.ttf -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-1.ttf
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-2.eot -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-2.eot
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-3.woff -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-3.woff
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-4.svg -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular-Italic/54d2159b-8e42-4172-9d80-0c69d1b9f7a2-4.svg
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-1.ttf -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-1.ttf
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-2.eot -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-2.eot
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-3.woff -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-3.woff
+https://format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-4.svg -> assets/format-fonts.format.com/webtype/Fakir-Pro-Regular/ca056f47-cbd0-40fc-95fe-6686bddaa36d-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold-Italic/e5d53e07-5a02-4ad0-a756-3e947139fe9c-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Bold/338455ef-1f8e-4513-a963-255b78119e7f-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Book-Italic/bc7c7aee-17ea-4c1b-a1ee-e59c4b985955-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Book/a1597cec-7798-455f-8033-f2949c56e28e-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Cond-Book-Italic/95dfd9af-c991-4463-9845-a0c711c149e6-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold-Italic/b5032165-2b3f-4720-9d4b-08fc1095ceb3-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Bold/2644ea45-5409-49f1-9ec1-1f67c055a1be-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Book/fb090be2-5a38-4134-86f2-634936f9f0c2-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light-Italic/4cd1c91b-d275-4eab-aac6-09e06473198c-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Condensed-Light/0a99869a-0299-4a74-83ba-744f1d92bb7f-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Light-Italic/4ee835a7-a2bd-486e-9189-393106edbc67-4.svg
+https://format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-1.ttf -> assets/format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-1.ttf
+https://format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-2.eot -> assets/format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-2.eot
+https://format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-3.woff -> assets/format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-3.woff
+https://format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-4.svg -> assets/format-fonts.format.com/webtype/Freight-Sans-Light/513c6355-c138-46d9-9958-7ccabf505966-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Bold-Italic/bf89fb43-0807-4f1a-aef4-eacfc897b4a6-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Bold/9572db57-0ae2-4499-904a-0eb47c0a1ec9-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light-Italic/508ccce7-0d4c-4fbf-88e2-c8a92f20ab3b-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Extra-Light/7e9b0f3f-f18b-451e-a924-74b5ff52b2c2-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Italic/ca0a717d-6a09-440d-b5b8-ff074d092b25-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold-Italic/3e9fb3f1-67b4-44ed-abe5-056138f446ad-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Bold/a8b16571-f512-4406-b754-b66363f2e841-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light-Italic/6fdd14b8-df2f-4b19-bb76-e95f33509dc4-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Extra-Light/49601d4d-cd78-4bc1-8bd6-9c1b405e393b-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow-Italic/34d3f73e-682b-49a5-b356-dfae06bcd116-4.svg
+https://format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-2.eot
+https://format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-3.woff
+https://format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono-Narrow/d6b3c136-bb1f-4066-b88b-9f20e8516563-4.svg
+https://format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-1.ttf -> assets/format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-1.ttf
+https://format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-2.eot -> assets/format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-2.eot
+https://format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-3.woff -> assets/format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-3.woff
+https://format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-4.svg -> assets/format-fonts.format.com/webtype/Input-Mono/05b6a128-9c75-47eb-829f-0b4088123c47-4.svg
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-1.ttf -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-1.ttf
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-2.eot -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-2.eot
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-3.woff -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-3.woff
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-4.svg -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold-Italic/6acd5382-1036-4ada-99e5-cb55abe14d11-4.svg
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-1.ttf -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-1.ttf
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-2.eot -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-2.eot
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-3.woff -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-3.woff
+https://format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-4.svg -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Bold/8636c6ee-52d9-4a59-a61c-0b4dd99e4a64-4.svg
+https://format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-1.ttf -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-1.ttf
+https://format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-2.eot -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-2.eot
+https://format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-3.woff -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-3.woff
+https://format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-4.svg -> assets/format-fonts.format.com/webtype/Interstate-Condensed-Italic/7e8550e9-94b5-4ef4-83aa-6c2fbd3a596b-4.svg
+https://format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-1.ttf -> assets/format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-1.ttf
+https://format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-2.eot -> assets/format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-2.eot
+https://format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-3.woff -> assets/format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-3.woff
+https://format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-4.svg -> assets/format-fonts.format.com/webtype/Interstate-Condensed/18369fa6-5d7b-47e1-bdb7-e92bf22dfaac-4.svg
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-1.ttf -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-1.ttf
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-2.eot -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-2.eot
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-3.woff -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-3.woff
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-4.svg -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed-Italic/cb182d99-caa9-4611-ad97-f9af8078cc2e-4.svg
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-1.ttf -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-1.ttf
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-2.eot -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-2.eot
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-3.woff -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-3.woff
+https://format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-4.svg -> assets/format-fonts.format.com/webtype/Interstate-Light-Condensed/f36f7a83-1c1e-4820-9b89-1c48ab5dfc27-4.svg
+https://format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-1.ttf -> assets/format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-1.ttf
+https://format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-2.eot -> assets/format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-2.eot
+https://format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-3.woff -> assets/format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-3.woff
+https://format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-4.svg -> assets/format-fonts.format.com/webtype/Lydian/09da50f2-1eeb-4ba1-a23e-f327abbe9220-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Black/f746315d-0029-477b-a54c-802f9bbd6f15-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold-Italic/d9b0c137-cb03-4ab3-91cb-55b2a6c6420e-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Bold/3d1d2c3f-fc3a-4f20-88fe-c7ea3c4713cb-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Italic/24582eb1-c57f-41b5-b3c1-4df9e4c4a376-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Light-Italic/08702c27-fa54-4a38-9565-a4d9c219bdf1-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Light/af9ba2ef-266d-45b1-842f-b51fefe21841-4.svg
+https://format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-1.ttf -> assets/format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-1.ttf
+https://format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-2.eot -> assets/format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-2.eot
+https://format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-3.woff -> assets/format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-3.woff
+https://format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-4.svg -> assets/format-fonts.format.com/webtype/Miller-Banner-Roman/98b841fb-1dc9-49bf-ad55-0a4b89e6069f-4.svg
+https://format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-1.ttf -> assets/format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-1.ttf
+https://format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-2.eot -> assets/format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-2.eot
+https://format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-3.woff -> assets/format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-3.woff
+https://format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-4.svg -> assets/format-fonts.format.com/webtype/MillerDisplay-Bold/e603f139-a550-4b37-9029-5ff36964604c-4.svg
+https://format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-1.ttf -> assets/format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-1.ttf
+https://format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-2.eot -> assets/format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-2.eot
+https://format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-3.woff -> assets/format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-3.woff
+https://format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-4.svg -> assets/format-fonts.format.com/webtype/MillerDisplay-Italic/903b4c08-af0f-4275-ac09-9e5870335917-4.svg
+https://format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-1.ttf -> assets/format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-1.ttf
+https://format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-2.eot -> assets/format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-2.eot
+https://format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-3.woff -> assets/format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-3.woff
+https://format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-4.svg -> assets/format-fonts.format.com/webtype/MillerDisplay-Light-Italic/feeec99c-cd89-45ac-a9c9-da025ea4ecf2-4.svg
+https://format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-1.ttf -> assets/format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-1.ttf
+https://format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-2.eot -> assets/format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-2.eot
+https://format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-3.woff -> assets/format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-3.woff
+https://format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-4.svg -> assets/format-fonts.format.com/webtype/MillerDisplay-Light/1ada0430-7fbd-4596-b4a5-40464e049944-4.svg
+https://format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-1.ttf -> assets/format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-1.ttf
+https://format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-2.eot -> assets/format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-2.eot
+https://format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-3.woff -> assets/format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-3.woff
+https://format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-4.svg -> assets/format-fonts.format.com/webtype/MillerDisplay-Roman/4edbc787-bf41-4a03-aef6-f9f1a7d15476-4.svg
+https://format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-1.ttf -> assets/format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-1.ttf
+https://format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-2.eot -> assets/format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-2.eot
+https://format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-3.woff -> assets/format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-3.woff
+https://format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-4.svg -> assets/format-fonts.format.com/webtype/News-Gothic-Bold-Italic/22462b00-e0c7-41e0-8de1-68e0e1cb582a-4.svg
+https://format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-1.ttf -> assets/format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-1.ttf
+https://format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-2.eot -> assets/format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-2.eot
+https://format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-3.woff -> assets/format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-3.woff
+https://format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-4.svg -> assets/format-fonts.format.com/webtype/News-Gothic-Bold/3c1604da-abe5-402d-8751-acf8316a3ecc-4.svg
+https://format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-1.ttf -> assets/format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-1.ttf
+https://format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-2.eot -> assets/format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-2.eot
+https://format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-3.woff -> assets/format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-3.woff
+https://format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-4.svg -> assets/format-fonts.format.com/webtype/News-Gothic-Italic/dc12228e-2a6f-49a2-8be5-be0f789fce3e-4.svg
+https://format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-1.ttf -> assets/format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-1.ttf
+https://format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-2.eot -> assets/format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-2.eot
+https://format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-3.woff -> assets/format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-3.woff
+https://format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-4.svg -> assets/format-fonts.format.com/webtype/News-Gothic/d4d91c0d-5adb-4880-9428-288ab258b12a-4.svg
+https://format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-1.ttf -> assets/format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-1.ttf
+https://format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-2.eot -> assets/format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-2.eot
+https://format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-3.woff -> assets/format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-3.woff
+https://format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-4.svg -> assets/format-fonts.format.com/webtype/Nobel-Bold-Italic/bec82052-2a7f-4dae-82ba-377b7e36ac10-4.svg
+https://format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-1.ttf -> assets/format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-1.ttf
+https://format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-2.eot -> assets/format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-2.eot
+https://format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-3.woff -> assets/format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-3.woff
+https://format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-4.svg -> assets/format-fonts.format.com/webtype/Nobel-Bold/729b2da6-79a3-4e37-8a95-35b339a9f7e2-4.svg
+https://format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-1.ttf -> assets/format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-1.ttf
+https://format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-2.eot -> assets/format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-2.eot
+https://format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-3.woff -> assets/format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-3.woff
+https://format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-4.svg -> assets/format-fonts.format.com/webtype/Nobel-Book-Italic/5e03131c-597d-4a39-8335-49973921da65-4.svg
+https://format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-1.ttf -> assets/format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-1.ttf
+https://format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-2.eot -> assets/format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-2.eot
+https://format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-3.woff -> assets/format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-3.woff
+https://format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-4.svg -> assets/format-fonts.format.com/webtype/Nobel-Book/ddbb21eb-34c3-4f09-98d4-3f49f9dcdef5-4.svg
+https://format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-1.ttf -> assets/format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-1.ttf
+https://format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-2.eot -> assets/format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-2.eot
+https://format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-3.woff -> assets/format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-3.woff
+https://format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-4.svg -> assets/format-fonts.format.com/webtype/Nobel-Light-Italic/792f5cf6-b180-4275-9053-02789269a4b7-4.svg
+https://format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-1.ttf -> assets/format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-1.ttf
+https://format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-2.eot -> assets/format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-2.eot
+https://format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-3.woff -> assets/format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-3.woff
+https://format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-4.svg -> assets/format-fonts.format.com/webtype/Nobel-Light/50cc6268-05bc-4316-98dd-79d89efa83c2-4.svg
+https://format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-1.ttf -> assets/format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-1.ttf
+https://format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-2.eot -> assets/format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-2.eot
+https://format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-3.woff -> assets/format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-3.woff
+https://format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-4.svg -> assets/format-fonts.format.com/webtype/Planet-Bold-Italic/ea922f53-3dda-49d6-b862-59b8353a8b85-4.svg
+https://format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-1.ttf -> assets/format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-1.ttf
+https://format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-2.eot -> assets/format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-2.eot
+https://format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-3.woff -> assets/format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-3.woff
+https://format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-4.svg -> assets/format-fonts.format.com/webtype/Planet-Bold/c355d85b-0e7b-4b51-aba4-8b6ac793d826-4.svg
+https://format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-1.ttf -> assets/format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-1.ttf
+https://format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-2.eot -> assets/format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-2.eot
+https://format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-3.woff -> assets/format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-3.woff
+https://format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-4.svg -> assets/format-fonts.format.com/webtype/Planet-Book-Italic/87fa9d32-b3c7-4dd2-8f06-f336fab5c100-4.svg
+https://format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-1.ttf -> assets/format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-1.ttf
+https://format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-2.eot -> assets/format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-2.eot
+https://format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-3.woff -> assets/format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-3.woff
+https://format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-4.svg -> assets/format-fonts.format.com/webtype/Planet-Book/30863d4d-8fcf-428a-a7c9-0d2ca1c5457d-4.svg
+https://format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-1.ttf -> assets/format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-1.ttf
+https://format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-2.eot -> assets/format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-2.eot
+https://format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-3.woff -> assets/format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-3.woff
+https://format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-4.svg -> assets/format-fonts.format.com/webtype/Planet-Light-Italic/4b67039e-870b-4317-adc0-dfc7332a720b-4.svg
+https://format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-1.ttf -> assets/format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-1.ttf
+https://format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-2.eot -> assets/format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-2.eot
+https://format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-3.woff -> assets/format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-3.woff
+https://format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-4.svg -> assets/format-fonts.format.com/webtype/Planet-Light/f17818d3-9f75-4f68-a688-d53087c13583-4.svg
+https://format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-1.ttf -> assets/format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-1.ttf
+https://format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-2.eot -> assets/format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-2.eot
+https://format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-3.woff -> assets/format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-3.woff
+https://format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-4.svg -> assets/format-fonts.format.com/webtype/Sabon-Italic/444e1a28-75aa-48f9-9680-f7373d2166fd-4.svg
+https://format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-1.ttf -> assets/format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-1.ttf
+https://format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-2.eot -> assets/format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-2.eot
+https://format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-3.woff -> assets/format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-3.woff
+https://format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-4.svg -> assets/format-fonts.format.com/webtype/Sabon-SemiBold-Italic/ec73b198-6c35-484f-b576-df152ce1df5e-4.svg
+https://format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-1.ttf -> assets/format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-1.ttf
+https://format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-2.eot -> assets/format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-2.eot
+https://format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-3.woff -> assets/format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-3.woff
+https://format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-4.svg -> assets/format-fonts.format.com/webtype/Sabon-SemiBold/b9cb0b99-5391-4ce6-ac51-43e40df12385-4.svg
+https://format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-1.ttf -> assets/format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-1.ttf
+https://format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-2.eot -> assets/format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-2.eot
+https://format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-3.woff -> assets/format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-3.woff
+https://format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-4.svg -> assets/format-fonts.format.com/webtype/Sabon/9c94717d-8521-4a11-b45b-2cc58bc9eb70-4.svg
+https://format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-1.ttf -> assets/format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-1.ttf
+https://format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-2.eot -> assets/format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-2.eot
+https://format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-3.woff -> assets/format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-3.woff
+https://format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-4.svg -> assets/format-fonts.format.com/webtype/Shift-Bold-Italic/b523eb71-1752-4470-8588-0f3a9efa88bf-4.svg
+https://format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-1.ttf -> assets/format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-1.ttf
+https://format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-2.eot -> assets/format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-2.eot
+https://format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-3.woff -> assets/format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-3.woff
+https://format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-4.svg -> assets/format-fonts.format.com/webtype/Shift-Bold/c7b92a48-5d4c-4973-9a9d-496a2d3fac24-4.svg
+https://format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-1.ttf -> assets/format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-1.ttf
+https://format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-2.eot -> assets/format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-2.eot
+https://format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-3.woff -> assets/format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-3.woff
+https://format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-4.svg -> assets/format-fonts.format.com/webtype/Shift-Book-Italic/530dfbc9-667a-467a-9ad6-e370c0f2c826-4.svg
+https://format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-1.ttf -> assets/format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-1.ttf
+https://format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-2.eot -> assets/format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-2.eot
+https://format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-3.woff -> assets/format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-3.woff
+https://format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-4.svg -> assets/format-fonts.format.com/webtype/Shift-Book/0854601c-8c4f-4aa8-800a-3c01b444b395-4.svg
+https://format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-1.ttf -> assets/format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-1.ttf
+https://format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-2.eot -> assets/format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-2.eot
+https://format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-3.woff -> assets/format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-3.woff
+https://format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-4.svg -> assets/format-fonts.format.com/webtype/Shift-Light-Italic/551497bc-3fbb-4a47-b7ef-1b5fadac1ddc-4.svg
+https://format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-1.ttf -> assets/format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-1.ttf
+https://format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-2.eot -> assets/format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-2.eot
+https://format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-3.woff -> assets/format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-3.woff
+https://format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-4.svg -> assets/format-fonts.format.com/webtype/Shift-Light/c1485211-e288-43c3-9b1d-f05b016d13b0-4.svg
+https://format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-1.ttf -> assets/format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-1.ttf
+https://format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-2.eot -> assets/format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-2.eot
+https://format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-3.woff -> assets/format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-3.woff
+https://format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-4.svg -> assets/format-fonts.format.com/webtype/Telefon-Black/94d89d80-035f-436a-a00b-dfcf14c99f3e-4.svg
+https://format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-1.ttf -> assets/format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-1.ttf
+https://format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-2.eot -> assets/format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-2.eot
+https://format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-3.woff -> assets/format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-3.woff
+https://format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-4.svg -> assets/format-fonts.format.com/webtype/Telefon-Bold/a83271c4-ca8f-48c7-9c09-dcddf6694748-4.svg
+https://format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-1.ttf -> assets/format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-1.ttf
+https://format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-2.eot -> assets/format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-2.eot
+https://format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-3.woff -> assets/format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-3.woff
+https://format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-4.svg -> assets/format-fonts.format.com/webtype/Telefon-Normal/7bf58e3e-2661-4555-a81f-11b966f6ca53-4.svg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/0,429,2576,3005,2500,2500/0-0-0/a8f086fd-8e0d-46cd-88bb-eb40e6056039/1/2/File_000%282%29.png?fjkss=exp=2108402741~hmac=fdd621c46b970e398ce9e72dbaec29c8dc5421464f4514fa14cf03819cec26cc -> images/cover_a8f086fd_File_000(2).png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/02666c60-3220-4e63-846c-1616f3b9a3c6/1/1/dhruvil-mehta-image5.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/008_02666c60_dhruvil-mehta-image5.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/0ade8a2e-1c93-4e0f-ad7c-2c61f0bc9d86/1/1/IMG_6333.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/029_0ade8a2e_IMG_6333.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/13c39c57-3646-4bdc-a243-d6129ecc7b44/1/1/IMG_6387.DNG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/030_13c39c57_IMG_6387.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/15aa4c2b-5f82-4b1c-b9f5-1f87d6f3d81b/1/1/File_000.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/010_15aa4c2b_File_000.png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/1bf9bd34-453c-41f7-b03f-f5ad5690b9b9/1/1/IMG_2053.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/026_1bf9bd34_IMG_2053.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/201942c1-8593-4d50-8ead-d5703941aa1e/1/1/IMG_0893.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/020_201942c1_IMG_0893.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/237c6736-9f13-48f1-8758-e9505975854e/1/1/videoframe_9468.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/001_237c6736_videoframe_9468.png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/27da9ede-b4e1-4918-91a7-5f6a5c6f8f9d/1/1/IMG_2467.dng?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/037_27da9ede_IMG_2467.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/2f885413-07bf-4edc-bc52-b2bd4230127e/1/1/IMG_4791.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/019_2f885413_IMG_4791.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/39f9b24d-b598-437a-80f3-f77c2496e05f/1/1/1000070960.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/032_39f9b24d_1000070960.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/40d357c9-492e-4e90-92e5-3b4d25f29663/1/1/IMG_4611.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/018_40d357c9_IMG_4611.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/45016e51-d02b-451a-be56-ce25c648d301/1/1/IMG_5270.jpeg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/039_45016e51_IMG_5270.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/4cd2b663-2f43-4f82-8435-07a22c6f4bf1/1/1/IMG_1650.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/024_4cd2b663_IMG_1650.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/4e9154a7-52bb-49b3-9381-fd4b52e266a7/1/1/IMG_1703.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/012_4e9154a7_IMG_1703.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/5c68b834-9de5-461b-9d07-04246729bb05/1/1/IMG_3375.DNG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/031_5c68b834_IMG_3375.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/61fd6cbd-7c6a-4a2a-9394-1f4ee7bc735b/1/1/File_000%283%29.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/002_61fd6cbd_File_000(3).png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/67d7a011-2301-4e80-9851-9c87d38bddd7/1/1/IMG_4854.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/011_67d7a011_IMG_4854.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/77664107-7163-47cb-b517-040a11a63a46/1/1/IMG_4844.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/014_77664107_IMG_4844.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/7ab2df35-24f1-4f7b-879a-338a05641e4f/1/1/File_000%282%29.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/004_7ab2df35_File_000(2).png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/7f474980-edc6-4d60-b74d-139797d83f31/1/1/IMG_2342.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/003_7f474980_IMG_2342.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/81fc3f38-7617-4be6-a614-ec91dde5e449/1/1/IMG_7797.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/033_81fc3f38_IMG_7797.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/83b42a60-e9c7-411f-9868-2fdee9950540/1/1/IMG_4619.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/007_83b42a60_IMG_4619.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/8bf2ba9e-8a4f-40cc-91d3-38b51d2c8605/1/1/IMG_5365.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/021_8bf2ba9e_IMG_5365.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/94627896-881c-4787-8dbb-d73dc2eefaa8/1/1/IMG_7954.DNG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/034_94627896_IMG_7954.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/971d4b21-5e92-4bb0-bd20-097dfeeba53f/1/1/IMG_3731.JPG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/000_971d4b21_IMG_3731.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/a41f0ce5-8b42-4c65-8edb-0ed97df6d829/1/1/IMG_3868.JPG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/017_a41f0ce5_IMG_3868.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/a8361ee2-9f9d-472f-b717-982dc8504781/1/1/File_000%281%29.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/005_a8361ee2_File_000(1).png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/b5605be8-9c0c-436b-a134-98baa2f6a261/1/1/IMG_1167.JPG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/006_b5605be8_IMG_1167.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/ba0a2c5f-7ab0-4014-8170-dba9c37df510/1/1/1000070033.JPG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/015_ba0a2c5f_1000070033.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/bdaa80e2-f8d4-4e9c-a6d1-17c430547bbf/1/1/IMG_2257.dng?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/038_bdaa80e2_IMG_2257.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/bfdd8bdc-789b-4244-9349-ffe99ddd2090/1/1/IMG_2498.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/040_bfdd8bdc_IMG_2498.png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/c05c4425-c622-4cbd-ad80-2cea949f69ad/1/1/IMG_2108.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/025_c05c4425_IMG_2108.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/c19b02cf-4379-4f99-9c55-8c264ca2cb95/1/1/IMG_8376.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/023_c19b02cf_IMG_8376.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/c6310e36-6d86-4aa8-b9d0-9dc929fc43a2/1/1/IMG_4566.dng?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/028_c6310e36_IMG_4566.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/ce039999-9e78-471d-a0d6-a35484da1fca/1/1/1000066104.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/009_ce039999_1000066104.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/d0f17fa3-155c-4aa7-adda-8726719595d5/1/1/IMG_8134.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/035_d0f17fa3_IMG_8134.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/da3e47e3-31d5-422d-bd44-bb4a69f610b8/1/1/IMG_4824.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/013_da3e47e3_IMG_4824.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/dab5c51e-6a2a-4531-a632-f755c409614d/1/1/IMG_8240.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/036_dab5c51e_IMG_8240.png
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/dfa5daec-e541-4974-8252-f769c7041883/1/1/IMG_3860.JPG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/016_dfa5daec_IMG_3860.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/e1e801de-634d-4e40-97c8-0f4c4b330077/1/1/IMG_1955.JPG?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/027_e1e801de_IMG_1955.jpg
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/e2680f37-f079-4e47-90db-319a71c53805/1/1/IMG_6329.jpg?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/022_e2680f37_IMG_6329.jpg
+https://js.format.com/clickstack/0.22.1/clickstack.standalone.min.js -> assets/js.format.com/clickstack/0.22.1/clickstack.standalone.min.js
+https://format.creatorcdn.com/258aa013-4380-4b2a-8b3a-74bd5f7a7203/0/0/0/X3XL,0,0,0/0-0-0/a8f086fd-8e0d-46cd-88bb-eb40e6056039/1/2/File_000%282%29.png?fjkss=exp=2108387537~hmac=3e149ce7a987db5155e294c6ba74c25ce997a60742483850024006c084807d14 -> images/cover_a8f086fd_File_000_2__original.png

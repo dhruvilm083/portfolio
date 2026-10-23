@@ -1,0 +1,77 @@
+# Cloudflare crawl control rules
+User-Agent: *
+Content-signal: search=yes,ai-train=no
+Allow: /
+
+# Amazon product and Alexa AI training crawler
+User-agent: Amazonbot
+Disallow: /
+
+# Apple's extended crawler for AI and Siri training
+User-agent: Applebot-Extended
+Disallow: /
+
+# ByteDance's aggressive web crawler
+User-agent: Bytespider
+Disallow: /
+
+# Common Crawl bot used by many AI training datasets
+User-agent: CCBot
+Disallow: /
+
+# Anthropic's Claude AI web crawler
+User-agent: ClaudeBot
+Disallow: /
+
+# Diffbot's structured data extraction crawler
+User-agent: Diffbot
+Disallow: /
+
+# Meta's AI training crawler
+User-agent: FacebookBot
+Disallow: /
+
+# Google Cloud Vertex AI training crawler
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+# Google's AI training and Gemini data crawler
+User-agent: Google-Extended
+Disallow: /
+
+# OpenAI's primary AI training crawler
+User-agent: GPTBot
+Disallow: /
+
+# Meta's external AI agent crawler
+User-agent: meta-externalagent
+Disallow: /
+
+# Omgili/Webz.io deep web content crawler
+User-agent: omgili
+Disallow: /
+
+# Baidu's AI and search crawler
+User-agent: PetalBot
+Disallow: /
+
+# Timpi decentralized search engine crawler
+User-agent: Timpibot
+Disallow: /
+
+# Webz.io extended data collection crawler
+User-agent: Webzio-Extended
+Disallow: /
+
+# Aggressive scrapers — always blocked regardless of AI crawler setting
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+# SEO analytics crawler — rate-limited rather than blocked
+User-agent: SemrushBot
+Crawl-delay: 60
+
+Sitemap: https://dhruvil.format.com/sitemap.xml
