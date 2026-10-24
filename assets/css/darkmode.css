@@ -1,0 +1,44 @@
+/* Dark mode, switched by the button in assets/js/darkmode.js. */
+html[data-theme="dark"] { color-scheme: dark; }
+html[data-theme="dark"] body { background-color: #111111; color: #999999; }
+html[data-theme="dark"] .header .logo a,
+html[data-theme="dark"] body:not(.content) h2,
+html[data-theme="dark"] body.gallery .caption a { color: #eeeeee; }
+html[data-theme="dark"] footer { color: #888888; }
+html[data-theme="dark"] #popup:after { background: rgba(17, 17, 17, 0.96); }
+html[data-theme="dark"] #popup figcaption,
+html[data-theme="dark"] #popup .copy { color: #aaaaaa; }
+html[data-theme="dark"] #popup svg [fill="#777777"] { fill: #aaaaaa; }
+html[data-theme="dark"] #popup.text .inner .text { background: #111111; }
+
+.theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 20;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 1px solid rgba(119, 119, 119, 0.35);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.85);
+  color: #222222;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+  transition: transform 0.3s ease, opacity 0.3s ease, background 0.2s ease, color 0.2s ease;
+}
+.theme-toggle:hover { border-color: rgba(119, 119, 119, 0.7); }
+.theme-toggle:focus-visible { outline: 2px solid #777777; outline-offset: 2px; }
+.theme-toggle.is-hidden { transform: translateY(-72px); opacity: 0; pointer-events: none; }
+.theme-toggle svg { width: 18px; height: 18px; display: block; }
+.theme-toggle .icon-sun { display: none; }
+html[data-theme="dark"] .theme-toggle { background: rgba(30, 30, 30, 0.85); color: #eeeeee; }
+html[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+html[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+@media only screen and (max-width: 767px) {
+  .theme-toggle { top: 12px; right: 12px; width: 36px; height: 36px; }
+}
