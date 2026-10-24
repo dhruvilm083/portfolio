@@ -83,6 +83,12 @@ for m in re.finditer(r'<script[^>]+src=[\'"]([^\'"]+)[\'"]', raw):
     shutil.copy(p, os.path.join(A, 'js', name))
     js_map[src] = name
 
+# Dark mode switch (hand-written, kept in the repo).
+for f in ('css/darkmode.css', 'js/darkmode.js'):
+    src = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'assets', f)
+    if os.path.abspath(src) != os.path.abspath(os.path.join(A, f)):
+        shutil.copy(src, os.path.join(A, f))
+
 # Favicons
 for m in re.finditer(r'href=[\'"](/static/favicon[^\'"]+)[\'"]', raw):
     shutil.copy(os.path.join(FA, m.group(1).lstrip('/')), os.path.join(A, 'img', short(m.group(1))))
@@ -133,13 +139,13 @@ def build(prefix, canonical):
     main = re.sub(r'\n\s*\n(\s*\n)+', '\n\n', main)
 
     pd = dict(slim, page=dict(slim['page'], assets=[dict(a, image_url_1600x1200=prefix + a['image_url_1600x1200']) for a in assets]))
-    css = ['fonts.css'] + list(css_map.values())
+    css = ['fonts.css'] + list(css_map.values()) + ['darkmode.css']
     links = '\n'.join('<link href="%sassets/css/%s" media="screen" rel="stylesheet" type="text/css">' % (prefix, c) for c in css)
     icons = '\n'.join('<link href="%sassets/img/%s" rel="icon" sizes="%sx%s">' % (prefix, f, n, n)
                       for f, n in [('favicon-16.png', 16), ('favicon-32.png', 32), ('favicon-96.png', 96), ('favicon-192.png', 192)])
     cover = 'https://%s/images/cover/1600.jpg' % DOMAIN
     scripts = '\n'.join('<script src="%sassets/js/%s"%s></script>' % (prefix, n, ' async' if n in ('picturefill-3.0.1.min.js', 'lazysizes.min.js', 'ls.parent-fit.min.js') else '')
-                        for n in js_map.values() if n != 'jquery-1.11.2.min.js')
+                        for n in list(js_map.values()) + ['darkmode.js'] if n != 'jquery-1.11.2.min.js')
     return """<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,6 +154,7 @@ def build(prefix, canonical):
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Photographs - Dhruvil Mehta's Portfolio</title>
 <link rel="canonical" href="%(canonical)s">
+<script>try{if(localStorage.getItem('theme')==='dark')document.documentElement.setAttribute('data-theme','dark')}catch(e){}</script>
 %(browser_selector)s
 %(icons)s
 <meta name="description" content="My photos!">
