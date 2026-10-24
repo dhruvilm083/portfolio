@@ -89,9 +89,11 @@ for f in ('css/darkmode.css', 'js/darkmode.js'):
     if os.path.abspath(src) != os.path.abspath(os.path.join(A, f)):
         shutil.copy(src, os.path.join(A, f))
 
-# Favicons
-for m in re.finditer(r'href=[\'"](/static/favicon[^\'"]+)[\'"]', raw):
-    shutil.copy(os.path.join(FA, m.group(1).lstrip('/')), os.path.join(A, 'img', short(m.group(1))))
+# Favicons: "dm" in DM Sans, light and dark (hand-made, kept in the repo).
+for f in ('favicon.svg', 'favicon-light.svg', 'favicon-dark.svg', 'favicon-32.png', 'favicon-192.png'):
+    src = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'assets', 'img', f)
+    if os.path.abspath(src) != os.path.abspath(os.path.join(A, 'img', f)):
+        shutil.copy(src, os.path.join(A, 'img', f))
 
 # ---------- page data ----------
 m = re.search(r'var _4ORMAT_DATA = (\{.*?\});\s*\n', raw, flags=re.S)
@@ -141,8 +143,9 @@ def build(prefix, canonical):
     pd = dict(slim, page=dict(slim['page'], assets=[dict(a, image_url_1600x1200=prefix + a['image_url_1600x1200']) for a in assets]))
     css = ['fonts.css'] + list(css_map.values()) + ['darkmode.css']
     links = '\n'.join('<link href="%sassets/css/%s" media="screen" rel="stylesheet" type="text/css">' % (prefix, c) for c in css)
-    icons = '\n'.join('<link href="%sassets/img/%s" rel="icon" sizes="%sx%s">' % (prefix, f, n, n)
-                      for f, n in [('favicon-16.png', 16), ('favicon-32.png', 32), ('favicon-96.png', 96), ('favicon-192.png', 192)])
+    icons = ('<link href="%(p)sassets/img/favicon-32.png" rel="icon" sizes="32x32">\n'
+             '<link href="%(p)sassets/img/favicon.svg" rel="icon" type="image/svg+xml" id="favicon">\n'
+             '<link href="%(p)sassets/img/favicon-192.png" rel="apple-touch-icon">' % {'p': prefix})
     cover = 'https://%s/images/cover/1600.jpg' % DOMAIN
     scripts = '\n'.join('<script src="%sassets/js/%s"%s></script>' % (prefix, n, ' async' if n in ('picturefill-3.0.1.min.js', 'lazysizes.min.js', 'ls.parent-fit.min.js') else '')
                         for n in list(js_map.values()) + ['darkmode.js'] if n != 'jquery-1.11.2.min.js')
