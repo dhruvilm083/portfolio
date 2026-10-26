@@ -83,8 +83,8 @@ for m in re.finditer(r'<script[^>]+src=[\'"]([^\'"]+)[\'"]', raw):
     shutil.copy(p, os.path.join(A, 'js', name))
     js_map[src] = name
 
-# Dark mode switch (hand-written, kept in the repo).
-for f in ('css/darkmode.css', 'js/darkmode.js'):
+# Dark mode switch and header spacing (hand-written, kept in the repo).
+for f in ('css/darkmode.css', 'js/darkmode.js', 'css/header.css'):
     src = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'assets', f)
     if os.path.abspath(src) != os.path.abspath(os.path.join(A, f)):
         shutil.copy(src, os.path.join(A, f))
@@ -141,7 +141,7 @@ def build(prefix, canonical):
     main = re.sub(r'\n\s*\n(\s*\n)+', '\n\n', main)
 
     pd = dict(slim, page=dict(slim['page'], assets=[dict(a, image_url_1600x1200=prefix + a['image_url_1600x1200']) for a in assets]))
-    css = ['fonts.css'] + list(css_map.values()) + ['darkmode.css']
+    css = ['fonts.css'] + list(css_map.values()) + ['darkmode.css', 'header.css']
     links = '\n'.join('<link href="%sassets/css/%s" media="screen" rel="stylesheet" type="text/css">' % (prefix, c) for c in css)
     icons = ('<link href="%(p)sassets/img/favicon-32.png" rel="icon" sizes="32x32">\n'
              '<link href="%(p)sassets/img/favicon.svg" rel="icon" type="image/svg+xml" id="favicon">\n'
