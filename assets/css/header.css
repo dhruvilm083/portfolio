@@ -1,0 +1,7 @@
+/* Less space between the name and the photos than Format's theme gives. */
+@media only screen and (min-width: 768px) {
+  .header.center-aligned.empty-menu { padding-bottom: 0; }
+}
+@media only screen and (max-width: 767px) {
+  .header.collapsed .logo { padding-bottom: 0; }
+}
