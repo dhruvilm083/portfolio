@@ -89,8 +89,9 @@ for f in ('css/darkmode.css', 'js/darkmode.js', 'css/header.css'):
     if os.path.abspath(src) != os.path.abspath(os.path.join(A, f)):
         shutil.copy(src, os.path.join(A, f))
 
-# Favicons: "dm" in DM Sans, light and dark (hand-made, kept in the repo).
-for f in ('favicon.svg', 'favicon-light.svg', 'favicon-dark.svg', 'favicon-32.png', 'favicon-192.png'):
+# Favicons ("dm" in DM Sans, light and dark) and the link preview card from
+# tools/og-card.html (hand-made, kept in the repo).
+for f in ('favicon.svg', 'favicon-light.svg', 'favicon-dark.svg', 'favicon-32.png', 'favicon-192.png', 'og-image.jpg'):
     src = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'assets', 'img', f)
     if os.path.abspath(src) != os.path.abspath(os.path.join(A, 'img', f)):
         shutil.copy(src, os.path.join(A, 'img', f))
@@ -146,7 +147,7 @@ def build(prefix, canonical):
     icons = ('<link href="%(p)sassets/img/favicon-32.png" rel="icon" sizes="32x32">\n'
              '<link href="%(p)sassets/img/favicon.svg" rel="icon" type="image/svg+xml" id="favicon">\n'
              '<link href="%(p)sassets/img/favicon-192.png" rel="apple-touch-icon">' % {'p': prefix})
-    cover = 'https://%s/images/cover/1600.jpg' % DOMAIN
+    cover = 'https://%s/assets/img/og-image.jpg' % DOMAIN
     scripts = '\n'.join('<script src="%sassets/js/%s"%s></script>' % (prefix, n, ' async' if n in ('picturefill-3.0.1.min.js', 'lazysizes.min.js', 'ls.parent-fit.min.js') else '')
                         for n in list(js_map.values()) + ['darkmode.js'] if n != 'jquery-1.11.2.min.js')
     return """<!DOCTYPE html>
@@ -167,12 +168,16 @@ def build(prefix, canonical):
 <meta property="og:type" content="website">
 <meta property="og:url" content="%(canonical)s">
 <meta property="og:image" content="%(cover)s">
-<meta property="og:image:width" content="1600">
-<meta property="og:image:height" content="1600">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="dhruvil mehta: four photos from the portfolio">
 <meta property="og:description" content="My photos!">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Photographs - Dhruvil Mehta's Portfolio">
 <meta name="twitter:description" content="My photos!">
+<meta name="twitter:image" content="%(cover)s">
+<meta name="twitter:image:alt" content="dhruvil mehta: four photos from the portfolio">
 %(links)s
 <style>b, strong { font-weight: bold; } i, em { font-style: italic; }</style>
 </head>
