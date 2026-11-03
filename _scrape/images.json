@@ -1056,30 +1056,5 @@
     "width": 1320,
     "height": 1742,
     "bytes": 4696276
-  },
-  {
-    "page": "/",
-    "gallery": "/portfolio",
-    "order": 41,
-    "asset_id": 900000041,
-    "uuid": null,
-    "filename": "IMG_5123.CR2",
-    "caption_html": null,
-    "caption_text": "",
-    "alt_text": "",
-    "dominant_color": "#645F61",
-    "crop_region": [
-      0,
-      0,
-      1983,
-      2974
-    ],
-    "local": "images/041_IMG_5123.jpg",
-    "source_variant": "raw CR2 converted with rawpy (camera WB, auto-bright)",
-    "source_url": null,
-    "content_type": "image/jpeg",
-    "width": 1983,
-    "height": 2974,
-    "bytes": 3951651
   }
 ]
