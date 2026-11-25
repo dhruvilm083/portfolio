@@ -1056,5 +1056,55 @@
     "width": 1320,
     "height": 1742,
     "bytes": 4696276
+  },
+  {
+    "page": "/",
+    "gallery": "/portfolio",
+    "order": 41,
+    "asset_id": 900000041,
+    "uuid": null,
+    "filename": "IMG_6765.jpeg",
+    "caption_html": null,
+    "caption_text": "",
+    "alt_text": "",
+    "dominant_color": "#706C69",
+    "crop_region": [
+      0,
+      0,
+      1818,
+      2576
+    ],
+    "local": "images/041_IMG_6765.jpg",
+    "source_variant": "original JPEG uploaded by dhru",
+    "source_url": null,
+    "content_type": "image/jpeg",
+    "width": 1818,
+    "height": 2576,
+    "bytes": 631248
+  },
+  {
+    "page": "/",
+    "gallery": "/portfolio",
+    "order": 42,
+    "asset_id": 900000042,
+    "uuid": null,
+    "filename": "IMG_5906.jpeg",
+    "caption_html": null,
+    "caption_text": "",
+    "alt_text": "",
+    "dominant_color": "#6B6E6C",
+    "crop_region": [
+      0,
+      0,
+      1512,
+      2016
+    ],
+    "local": "images/042_IMG_5906.jpg",
+    "source_variant": "original JPEG uploaded by dhru",
+    "source_url": null,
+    "content_type": "image/jpeg",
+    "width": 1512,
+    "height": 2016,
+    "bytes": 801838
   }
 ]
